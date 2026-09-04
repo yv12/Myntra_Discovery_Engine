@@ -1,0 +1,60 @@
+# Filter configuration for Stage 2 Filter Funnel
+# Applies to Play Store reviews (Reddit and Survey pass through untouched)
+
+play_store_filters:
+  gate_1_non_empty:
+    description: "Review text must be present, string type, and non-empty after trimming"
+    required: true
+
+  gate_2_word_count:
+    description: "Review text must meet minimum word count"
+    min_words: 15
+
+  gate_3_wishlist_terms:
+    description: "Review must contain at least one wishlist-relevant term"
+    # Terms aligned with scraper matched_terms excluding standalone generic delivery/return/exchange
+    terms:
+      - wishlist
+      - wish list
+      - saved
+      - cart
+      - waiting
+      - size
+      - sizing
+      - fit
+      - out of stock
+      - sold out
+      - COD
+      - cash on delivery
+      - pincode
+      - price drop
+      - sale
+      - EOSS
+
+  gate_4_deliberation_and_blockers:
+    description: "Review must contain deliberation language or a structural blocker pattern"
+    patterns:
+      # 1. Deliberation & price timing
+      - name: "deliberation_price_timing"
+        regex: "\\b(wishlist|wish\\s*list|wishlisting|wishlisted|saved\\s*for\\s*later|save\\s*to|in\\s*my\\s*cart|add\\s*to\\s*cart|waiting\\s*for|wait\\s*for|price\\s*drop|price\\s*increas|price\\s*hike|too\\s*expensive|high\\s*price|wait\\s*sale)\\b"
+
+      # 2. Stock and size availability
+      - name: "stock_size_availability"
+        regex: "\\b(out\\s*of\\s*stock|sold\\s*out|never\\s*in\\s*stock|always\\s*out\\s*of\\s*stock|no\\s*stock|restock|size\\s*(is\\s*)?(not\\s*available|unavailable|missing))\\b"
+
+      # 3. Pincode and serviceability
+      - name: "pincode_serviceability"
+        regex: "\\b(pincode|pin\\s*code|not\\s*serviceable|unserviceable|not\\s*deliverable|delivery\\s*not\\s*available|cannot\\s*deliver|can't\\s*deliver)\\b"
+
+      # 4. COD availability
+      - name: "cod_availability"
+        regex: "\\b(cod\\s*(is\\s*)?(not\\s*available|unavailable|removed|disabled)|cash\\s*on\\s*delivery\\s*(is\\s*)?(not\\s*available|unavailable|removed|disabled))\\b"
+
+      # 5. Wishlist mechanics / cart repricing
+      - name: "wishlist_mechanics"
+        regex: "\\b(wishlist\\s*(limit|capped|full|cleared|disappear|deleted)|price\\s*(changed|jumped|increased)\\s*(in|after)\\s*(cart|wishlist))\\b"
+
+pass_through_sources:
+  - reddit
+  - survey
+  - interview

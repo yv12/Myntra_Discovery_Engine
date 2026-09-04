@@ -1,0 +1,2683 @@
+{
+  "ce446f8786721a3ec6cdb1d56299882adec7ac6d9b82872991a498d73551354d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "514e3c4db2be2e262b9f91589a4b1a36f597d506ea69a8cbeaf1e2b124ae03e8": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "purchased"
+  },
+  "e43d61f96ad83b476bc98cd994795fa0cd54b86dc0a2544b573f1433162efbe7": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "size_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "1d1600e25fbeceda75be35a0e29b899c60c5001d9c11bdb7c176848443c6c9ed": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "c663bc8869800ad9ee3f84dc1ec02def7bc622ff60740939db412370d7a48b2a": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "d8d32164c23cafe3b705fb792ec115da7d9dd3c0511836313960664e472e4970": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "439591910d00e3fab081e41c89fbb7667e6ce5fbb6eff5fc8d33a9da8a3e8bb4": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "64ec6a2a8af5971030c4439ad2ab8ae8c4d709b4e1b0b217e3076ee5e287d228": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "ad372358a8a3676f92dbc8ce897ba58faaa74c1b256ce93424f6f6c6cab6b802": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "d6c70c82e97526e8db7c7deaf6b4ee1553b470b3275d895869dff05527cc63de": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "c0d606a36011c75c4bed5d477ccd57574c9131d6ab17866a033ae20e12586988": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "2f20408f6d63ef724a56e8d695d8e8dd75c1fe284ddd2af9be152e3aefd19399": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "00d826227043ee8fcacba0d6fa52e3d7ef806ecd60ecca9aa2361c3bc4efdb16": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "0539503f39a0de4803c32ca16005fc8531d937afb8e24ef8477cb1fbfbff49aa": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "032f6bc4512f081c70b95f52f26f3c54c1a9f79335bcab65eb38708b00b276b9": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "8475cc5f61801eec4a67bdeaf24d6b502c31d5422120a0e3ff2b9886726f3406": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "7869b7ff45665cce1e30c5c11626d01d96b7ad63f403ade6d7eebc0b5cb418e3": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "c09409bc0a7f250f98a78580098d6e88ed7733bc42f41fe8bd7040a4dafdddff": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "c8331e4ce4172ce26f37692746d2d5b3f9bbd108e0b80344d0d6581fbf34ce95": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "d556a842969decb088109a24e8505e3fc157e16ef1f86507c20a382081123850": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "2eceba1686cc24dd0e1df55bd08c4e94aaeb22a6fae906fc3b732492c164e338": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "ed4bc0012170eafd8eafcc07c2b2472da5058a5d6e93dca1fafdea9277f1dd8b": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "b9933146a23f13916272ff00bed30d0f4d056129ca2aef828e3a80fd4ef9aac8": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "6f7d437ac5b0bf2d5aab6d82888118e60ee0ae4a254053d262d23435e862151c": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "checked_other_platform",
+    "journey_stage": "abandoned"
+  },
+  "7c732d538e981f40bc2b9f980bb4ef736b733491eebbcff64ebb02b0e9a97a1a": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "debd44a79ff1ca14d81d005847ae6e8fb56823926497d4f952b33e133ea3b2c4": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "budget_constraint",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "9ac107fda459fa07a8f02894a902bcfcaad59880b76311f90a470e552888d066": {
+    "wishlist_motive": "comparison_shortlist",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "ecc83e5ad89f8584deacd27e31e5ead7591a840e8a3fa4b86d674225e36585cc": {
+    "wishlist_motive": "comparison_shortlist",
+    "blocker_type": "decision_paralysis",
+    "blocker_category": "psychological",
+    "external_action": "bought_elsewhere",
+    "journey_stage": "abandoned"
+  },
+  "7ba47b1b8c5b2293c2c5dadb8792bf4a7c9824b3af8bf655a8861d4da8e272c8": {
+    "wishlist_motive": "comparison_shortlist",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "fd19c262deabcb619ab9daf363196f5a9a15a97bdbd48f9c5964c71c19ffcb5f": {
+    "wishlist_motive": "fit_uncertainty",
+    "blocker_type": "fit_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "5da6ccf8be438fab677a1dc8168cbba3e2a0f0390067f549de4e119bba876a88": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "9228cc27b0b4059ddff14520f7f9f6a83d42f21a03478acc9be8cf569cf0f64e": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "33cd800e2ff830b45041416ac0f4ceaa3728c0570bda9a4b5c5b015de53c33ad": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "5f2d2960450f99b9c7cf43a3963033598686168b140a9a150ce615dd2103f230": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "6e4da8e07d5761f3bae761fc0b15f12a5a0a02209ce805009e7d0d6ce1e98a28": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "8da9aa649b7d1669cae16efca8be09bb7340da511b5495f75dbac2f03314af72": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "98120762af6cc2944cd82c77a01a753ee9877e5c50e6bca7e2e382ebafecb5bd": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "a7e65badc2bbf9dbf35390ea684a0e1823e1258a22de406bf5fb00264b4d12cb": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "eb7abddb216e4dd63318e7c4cf2e2fb3a2c4d2a5488e5021645ad85e79cf6521": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "f441836cecebd74b7affa6b22b76b2ee02b17bc6984a2b50e4ca4388286f4851": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "bought_elsewhere",
+    "journey_stage": "abandoned"
+  },
+  "224c140141fcea9d31328d379b0995ef069a026bcb59bfa04553784189d548a6": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "a0d6858b2c7574ebed9139ef41788bc7aa7ee3e36d8edf31343db4a125b660a6": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "e0f021420b687ab50f732a1a056d19e5f5077ffb7df1212a20ab86a0e15fc122": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "1209212d6e5a19e8cd62ef24f6639513199f6f934952bdfae0492c15f1465866": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "c3c36797bb4daaa2419e7b067024a839bae50f6cfcdb580b24e0886eefd44f17": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "add546f6bf62ba7a7e26c2cdf16a33251c0a80633cdc828e055d5b463c9ebf02": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "size_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "1306e7618706b3409a5b2d169b07456d362aa3864bc7ada3f4d63103ce465729": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "cod_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "3c33b0887a5d412435c837c0f81d87f99a751ae71f7c5a51ebd167ba0886d909": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "860539024046439a280e204e10f5e7571620a5d042626bb99d4a15551af2ec11": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "4cfc654ef26496e5489a3f21088c2539f9bd4fbfc16f5869a98610ea82145372": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "b4f4ecf7310f07ae1bac45ec2f99d8884411623c861e4c02888a8e0c4c5bce99": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "e1dfe01db2a5cd68d259a763f3e3b6eb69ab0342cc0fd22c60ef328ff5c9aba8": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "dda9a8ef07306d260474ae80ee16d0c5ca68c5f58927fe552137ccb56035da54": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "5c2a29a88939cbf89fbf0a88dd005b5eca7180ce7bf22031139823d644263b37": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "aa9ed468ded1a2a81aefabefca8d43fa2348d14a4abe43ced9b7fcc097c91ccd": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "619e0473dd58cf50e532d42e31c78afd1771c1f1eb306e32b36170a9ba9aed23": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "c54965e8a8921896f981c07d4b04131fbc41825fcb2f44bc0f24fb74096cf30a": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "e5a8a6cd679214339fba5acc3de268734031bf482edfbb7dffd14729dee296ed": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "c9814d32ab88ce997169ab6588f629696202b302d76cc8927557809e3ab226a6": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "96febe674131d981d5f24a667836413238fd562c9b26734d5bedd1f31ef05126": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "5ec1ca9ad26e1fd75bc37ea2daf72abdcd1a612217ee58cea7c492d2f474761e": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "3662620c4329e0abcc64904bac52d0abaf5df20674820291a319a17b529b00c8": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "93974883314076f5edf4cab36217be0ed7fc8a5b445f183896c6921f2fbf8afb": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "c6574c5c29e7eb64e78e1e70d7189bb5fdcb8898151a494cf1c24f5f79ae5014": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "c26c389db57ac57541d6719c8b8391cb8776b62a73c2f41ffb97f99848c6e319": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "616e2e99148f2ebc4b90d0413b636df149ed92b2277e411fbf45f9b9ea892949": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "5f1052fa662558a48e911567fc94f835b3323dc8c1eab7f8b5e6722a7c0a24c1": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "cod_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "b80ec6fbffa2af3b636276b2f748fbc00ff68d160fab945fb089666f4e8d365f": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "7693274c55c474b780e6ed145eba0fcd38834282cc7c6c93811ea128c8d9191a": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "ced0feb115ea0184a10c66dcc7a069c9e86af684d7d7f66a936ef561d185fc94": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "68de6a353c863590ba30ff90360156ef959f9276fd8d1a72775bd68a63bcc671": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "checked_other_platform",
+    "journey_stage": "saved_waiting"
+  },
+  "f8cbc54da58b176635c1927b870735b1690c421a1714e6d5c16bc95524c58a51": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "7537fbc3e5d0306e63fd51393f3ff9efa5e2ed05c8bdd0bb7758b250be367123": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "83a0c0b97cd6218365f4777596e2291b3902a7e31e217544182141d5e43489f3": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "77b11716c4b714dd843dbd3c6b0c3bbab3a4096e084f63649118e6c40dc21050": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "3cb13d6dca0fd7cdd8e5624746458132eee4c032bcea4358578d08d1d35a1277": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "purchased"
+  },
+  "998985924259599c8890cacf36d2eb5b08843e8045a3614ce362a70b24964336": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "e03941d375e19313f1bafeae9c616904273cbcf5b302af905a1a978b37a32f8a": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "efd6573cc757013cbe66d9ff8c369227e6ac5754a33439d85b2eb1166a4f895f": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "44d8a4d3ae47847ca9d7b116a3517eb7a0296ebe28c5c2f3466c32a645c5b636": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "48e1d5ee647b5d1d6e0d9017fa48fa559bfd6dfb169b99e57acbfb874adcec69": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "2d0fd10a66991733777ab3e411ff70f166364f675331702b5d672d6c2d456010": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "9357ba56c7000e880d316f08cf4c62b364b5187618edda068b966d6a8785fc98": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "bba62bc190252dc16e7151633aa7a47c459fa89c7a3f9eb07e2d74a2d4b98ff8": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "8e9159415eb8babebbfa9352f5d29f64320e721eb6df000b85eb9705026d2dfe": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "2ba51dcda9bb68e4ebb5f2be5cdb87524a4f0907f9cf64edf46af1211ae0ba52": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "75d94a410fdc045fd047c29629cfda6e3342177ea11f91b6053280e3458cfd65": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "c941c44668635c3bb1a9036fb0e2e3f6fa5a71f7d4021ea8323850c7a0eb6bbe": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "6ef343e105ba76e3b7d1c382745fab234d0994b2939e209c8fd53357f101ad31": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "2cb7a7e53db4df06df188ed0a5c60b28f24185709994032caa13088925cbc16e": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "499a29b02e93aa881cfa73528e89ca4a830220b9a0f2ea218137ca300cce354a": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "12e139b8a0cd09ac8b46e24c526bd8b6e47131185534beb5bddd1c9eeb8b7a88": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "17085f5858267563944f4db3bb6824c506ac18446c12e9b02e985aa943c99212": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "65bd78c4baf0b9b948ff3715dfcdc1ce204dbde101da0dabbcc2f44b558795df": {
+    "wishlist_motive": "occasion",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "purchased"
+  },
+  "6f8b86780cd3cf28c2d9b45eee789456b1e67ded5caa1bdf525993368b794114": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "589c932c1b2d1f9f9c9b1b36c5c57a29401221d7b6de49381bc9edb29406bc42": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "5b87d2fa273f031d7de137091bee4c07a4393bbc311805ea0a8143461ff73282": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "6272e14b652c76bd25c066a9e042f1601be1b2a1aef515cbbfef261ee7baa8af": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "e2cf9d72874e6b8629c19f3a8bc80932be8242b595971d795726487ab61dc565": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "6c6a061d6157b04da2e902741c66971962642d8d27f33a3ccbd787b428f758e4": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "6634b08b176438100e28bdbfddbeea419238dd4a7b0f2c6d76c1cbc271866985": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "bc26e0cf9f5ec5a5a501a67580486350a694005f0b1a8a6e18395c53ecead533": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "23b32728a727c3321c18964963dfb310642c3b007c17cd66b82b3d6aee5de5cd": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "7e1c4a5b43c9192223093e7bcb7a8c90b0f6916946f10f4ff566ed36eb8fe4eb": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "d8fb3bfdbdb3342423f0f30878ad830eccaecc1c61074991a1f4de0f29ebd36d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "5833b7eab88cbfdbe23b54137d68c9958d9357d6c7dd69dcf08fefe5969c8977": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "a371b3fcb44769724cc2a9423353b94ac63242e97d245ce865f813b40913fe85": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "abbe66cff9bae4d06fa3306741f76a84dc7230b38c96ac49ac99b4107e524c45": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "889e5cc14e2ea001d11d89148e5e73335d972ac4f4b77c76af18bdee1d39cb3d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "size_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "854d5181aad691c073a4a3cd639247aec49a31471176dfca72b2071617768fc4": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "df3cfb4090da02a56863ec551278333eb999d7e3adcc572c4717c80fb0d79f9a": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "ac4c7ddd5a8002cc0995fd73e5a97d19002b58161f3dcd72a7275f5b33e429f7": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "5ff6b1028b289375f9e2d1ef1826c08755b6f8c65e3fcfb3dbedb8287a4c0b38": {
+    "wishlist_motive": "gifting",
+    "blocker_type": "fit_doubt",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "4b7413f569f8b470e53b182fe713bb29883c48947e35b532c3fb4b620dfee527": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "4a1f203a8eb25d9b44fdacf091feea807c6ee80d9f059584c0cd187ff459f201": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "f1c23617091a44c511295e08c570697440a139512753a2b4078f04d76bc54a28": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "f4ad67384afa6c5c8222eeddeb1fbef33effa8d7b5e8858440914078f5bcde72": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "02f5bc0b7b8c29030fdaa7b246e44aa5d783b4e55f82eb664d9687bbf1454af5": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "035749cb87f6480bae39ae999bf35ca6e97000d29812a5ba1661318b7a7dac0f": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "5956e8707e5857306041b5496e9ece42d24428617475f14f5e53b15d95d77943": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "649973ff9d29b4ad988b9cab79d8ab3cacbf255c194b7a5ad8a6eae141d0d968": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "0e3b3da18367a0bb641635632d0578742c4755724b5f33e20e22bdb4af7b9417": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "8d54a9f0270ce277a86d47a3bc07330d1267a82d1775c287e757b92ef37250bf": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "cod_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "f8bc9b9f91be69722b63628d75c73aa1e0586a5f61de74a86a2fd73afbb3e2cd": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "checked_other_platform",
+    "journey_stage": "saved_waiting"
+  },
+  "8c4454558f1bab17b11afe3423607670fb2c0f3fe92c73e705928d64abd1233f": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "13c7cb63015d479d7b444d8660f6097ed4cb9e4c0f3548a0d177ddfd8f3fc84b": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "checked_other_platform",
+    "journey_stage": "saved_waiting"
+  },
+  "49f8408f6f6a3d2ecc5bedce06287f33d067ca43b5c3a06adf5439de35f0c9dc": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "ede043d76a61fe6f971dcbf9e857cc47de7306c2e6b347eefbf513c955e68985": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "627600fca99c2d6eb4343b69b7ebdafb5d6d35f105858672b7a20a510f804052": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "031e274a65a7839d2f2494272a83ad4fb11d34b3da2c9e8bc509cf9c12800574": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "8c8e9cde5821dfe5dc4e032d24b2a00a6d0d255c168e3ecf4749023bf5bf31eb": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "89f47ac89c8066b991c1046ef191c0158769db192f44c6b4956b73bad0c605d8": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "0504c5b4f832af763ff83a41c46f79a9e4a45200093c446fe5ba78afe3972a93": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "f535bf8cb1a4eeebf605651320286e98b7ebb506f8f66d6a461f2b03c60d563e": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "8c6db6b73b87ac4ce1c337410324459bb7ad09cd87a8b535939667077151ec17": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "50c7ef924d45eb2520e909e18cef0e08c92cb2bb3e20223789b04588d93d3c24": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "cc04f97d1aa1820a81246e1155efa68845b5333d6eab491b115ef41dc3e754a3": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "2fa19b3dd6eed3c49014b2e656830a1bed9655d592f8f9f7fe59adffc89bf444": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "cod_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "501e2589e6b61ec3fce6a2d08ba25f047e92b8c24c2344003d00b8d0e3e7ab18": {
+    "wishlist_motive": "fit_uncertainty",
+    "blocker_type": "fit_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "3fffb82d18813ce5b1160217d44beca2d34e3e002b52e98f3642b82f98f3aa7a": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "6a6ae7566c12b8f85f769d57074f326bae661f597094af1bcd536f79c1f5531e": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "9ebb4dc134323ad5b1a58d0c570427cead3623f4154ed940ef2148421525eb67": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "size_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "eb4e53494b8a6abb5474b6cba760e3d2ad302c739f92e1fc83f36089dd0b465f": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "63e786c9d74fbc46a76851d12f1d02832c5e2276fb9b4ea6196fefa853238cc3": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "79bebd1d5fc89a92ec340737f953963bb3958df75655c5e6482600213bc5baee": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "b27e57dbf621c9a5ad2b8ed6c4fe3c25acd60e9f2526f9351bcf34365baaaf35": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "00973816caf9b322be16c0ab4e1db6cd53b8e9d9bfbdef7b705f7288c1e4f3e4": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "price_wait",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "7888a55d2f4ddee041c6d4f24c2c7c935305ebf35cfc4bad21b747ca0a8b294a": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "price_wait",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "9c84a5840b3be886a7d7d8593d26a5cb2ce553e5856207b053a02f13474bb481": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "48a34f7fd63b434eabbd76cd3dfe49c040e279fa5f3834de528408164b387ffa": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "4e59511cf2856673ae585affdaa41827f6c4fb6814d51110b6adca7ebe35a88c": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "bought_elsewhere",
+    "journey_stage": "abandoned"
+  },
+  "fd16c39c9cf24d11268f7c34b3e96ee224a46569106cd2bad1b0b741e1193ad9": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "18f6abb6d301df0e77b90f1f3eeaf218e842952903f8cef1699771ccb4474981": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "a5dac699a93c4b9fe889e7e196bc90ae47961ecf8511833ec2e46961ffb4999c": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "4c10e5fe79f46db84ff9ed45098c399ca2175c5d527fcba923ea15f581adc4d2": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "39b9b1352acdffe4e913870aa34f030f9fffbb2efe06859df486b57e3a038009": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "f1bd72451f89ccf00e4ea675be1ed303beb486c76a156a65dd36a3e70caa248e": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "876d1620766be40e51608adbbdc583bdb47eee942ad4a9e3e83deff647f6f56f": {
+    "wishlist_motive": "fit_uncertainty",
+    "blocker_type": "size_unavailable",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "dfb9593ba31bdf4f15c1e1b745452034e76c84d14becbd6a5e80d4fe193c85a9": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "3a299ea73a1c28f84b4d531ecec3c311e59eddde3eabd54913791087db985d7d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "8a83fd467c8128fddee414674a6544556cfaeeb559b6f094885f10911c777305": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "dd4e1ae93a7b34de345101ba7fe95df0f78f27756f3b97329ff3f35917111310": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "f01a6bf0e28c2c7171e9dfed606f7ed5b689d8e6194733aea2f72e6105382ad8": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "26c028e4e2f4dec56316189fa9db850b28d4e9afbfb51b0fe412d493f7555a87": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "745cca95a44db46601c6aad66f33169be6af7073ad8cd548dc38400e48d8b8d8": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "6b08ef3c91349e05fcb81e3c7a176c076f30e33329fbeab687116fce6e7aa10d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "both",
+    "external_action": "checked_other_platform",
+    "journey_stage": "returned_blocked"
+  },
+  "1dd4d4d649753574269a2d4acd904a98a06e6b902c403230eb58d1fd1ce92f72": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "2f655812e5ca92ef09972b8d098ad13d69014035acb9ada7b89b933f0e283be8": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "dea0326f5a2572d6299e38af39c43fac9fc09340dd7e2dc744e018ca3e1c3232": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "4eeb4b0d36b0762cb696f0e50e94cbe59892062b021d7b59564b38771a4ec8ae": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "checked_other_platform",
+    "journey_stage": "returned_blocked"
+  },
+  "79538e6213ba467abe11d367b91a1b215a8623e94731f348d5a8abbb167e8769": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "4b7235c5e46f8bf4f08246eb98990ef49b85f6a75d2294066613a884433f2cb4": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "2af1aa6c50cea02925bcdf3723b8bdf6a3a78f0ef9c1a53b7ff65ea27fff6186": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "8e1b5d8d0d96cb6de6f0ec17e401f0e7347f5c346560aa893cd890b2a67951da": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "both",
+    "external_action": "checked_other_platform",
+    "journey_stage": "returned_blocked"
+  },
+  "79aa8829cc525743c7671161bd61494a60a108f7df1fea3e2921c5950b877830": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "15553354cfd3f6b915a40209c512482781e941b98c997f42990d1df60cff3488": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "cod_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "95138ab6cee1ba895330cd9b069f9142116f41890a4966b26be3b72af3f990fc": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "4d0696d1b881c28a2fc5240e2782f0210b7420df7d7da67b078edc5052001250": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "b974ccf6492dbae7f05351b0002d709b8b78578723721984376454acd045730d": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "71197743b1fd2c85a04dcdbfd20eb92a294f35347ea71d0e59f9799a7ade26a3": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "bb9d72bc68b2e352b9f2d7d0e0e00b1d74111426e993bb8763c38ff9f5b124d7": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "fdf35f10d4f17f8a5f827651121b0b7144eee7a0a6f3d4b6dec91928b5e12ea0": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "83a8f2289b257ddd6374319d7be695ea23c9608a65ef561d57d60269bf35fde3": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "0c57ea39394ca4d20b5059eeef0d9965fb92547051b1e0df978e98b6fdd1f51d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "8fa7b937746f9ab46e3315b76005c43de8a5d1ac54e50a7ab35bf9c9e1e1e5d3": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "ed4c6e2bde9f84cc2f0003bbaddad3c1ae012bccf11c5855c10b52ef208c4565": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "15135586186b2fba6743f6d05156d858d10a1a552d13271473789bdb8f00d7bf": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "ba5e93030e607f8c6bc4b031be51fdc08f879d1b9066e0cffa443800b928c84e": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "8ab75426fe2047105146198971f496bc34252c797319efcbce8f3e870d10a351": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "ee9db074adefe64889e2a69d415e519b95300295bb5668b339fe32fc89d53b53": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "e0cb5f3223b8800ce2020ad3660657568eb3b0f7e26f4f6b307dccf283f4cc9e": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "62b4d9881ff8a508c8fa01c7370d94418a7d3739eb204a3a310d9393656926b2": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "24c1eb1ea92313df91913993b7ed29ffe91676f145c7f5ed3201f1bb12fa5913": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "cod_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "f6f8a6803187a69f7411b0c4e791e7f5e69402a7f5ba22d5d1ee6c5aa3476972": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "checked_other_platform",
+    "journey_stage": "purchased"
+  },
+  "0229ac603d81bbe555eb832d3289074d7853c05af6945dee82193948127adba4": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "386825204c8f1b3ab4b2101741485df9216495086f599299e56bb9f7a4ffa447": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "3358c63bb8fdcc12078f5eef4173923ca5112436bc4e8ca43443978abfb4f474": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "a68e092225d4983068dbb10630166aac2112737cfafc912990f82126001338c7": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "size_unavailable",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "e4faac7d2ce8bf2d9636303b187a2f1d1be560f551a1c168860e887bb46d194c": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "7934995a691d89f82a3c2eeef2195adbad3f89485c5d7bb35644812409c4dd18": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "5ca0aa6b855cc3865b649ca39b3cd4c0f61bef8afbe4d58fa5953666a2485607": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "f23b32fa715c246df03006eecba3bf26a0b5454563b7f5ef5278ca0bbabe9a51": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "816d236146e6699922f97cf79d524e5e88cab4f874385642e74af224af0c7c44": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "d386ec95209140df8fc91fb23ae5b77d127c4ef9485620bcba06668ca17dba17": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "e2135a2d3f41d7139ef768a90fc3e80cbaaca12a5df5181699ab8ff80a71ee98": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "cb787234709d7952b19000164606f5028b7a2e6781bf67f02610a612b0e9908b": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "cod_unavailable",
+    "blocker_category": "structural",
+    "external_action": "checked_other_platform",
+    "journey_stage": "abandoned"
+  },
+  "96462b931a3a19757083c4ba295f0797b452a9b80d4dc752a241d52f4973c75f": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "974bb549ec0eaecd6a0cc9ac09ea95dcb667c95cbb83a645292ebe1c0be0f2ab": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "586948c9076e46aa5c8e11bbfd7bbe33e07e95f136a045cf107aa83c3bfcbb45": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "073cd5a968b341cf751eeadd82ef7520eeee5c46d075a551c89b56d468f7638d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "a6c98cf09c084d24d163829930ea6131d88f5bccaa0c0943e317638f1227b13b": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "checked_other_platform",
+    "journey_stage": "abandoned"
+  },
+  "191341e84905f7a228178762331387848ec30c56d6957e16d7fe8f8a766d2a61": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "c33f91f0d1cd50a5044cd994ca038008266e948d3dba8c569ed47dc1445c671f": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "c5ebc025dcaa995bff70397b2225a6afe8b3819b7bd7a91d3338e8a436ebbbf1": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "43c0aec2795e85bc7e78421ec5ca2979e8d268b6c3b59bc89e082e6e54218e2d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "c457a28d2ead600423e7dc7dbf521955d7bcd445122f79b1698c0a045de1db11": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "ca18dc112ff4de81b6b14944efc432d3c69c7a6d222f19176a2b6d4f8f654039": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "ee95228edf217f073277dc317e5f9516553647edcb3b7142c9a7a4f1eeb9707d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "33dea4d9f58e7195006a2bea14cba0b40917632cdce5c116eb64820f3aed1001": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "c1e7cf0af1665c29b5c1ccfe1e6f3a3d51fa6a87bec084ab84c19fde8ddec875": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "d90a3874aa94e19b8fb06d4fcb56b6f9fb243582d0af6eee68aff2fe0a2a9908": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "cod_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "4fa102e2b584f2d728f3e4698cbe49e6c8b4ac516d187dfa3d8ca6a1ad8451b4": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "705b6cb44254a63eddfbe34ea56b54e3a97aa4e9a9a6188961783d7f611efe13": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "9ce0625be57e2e69cba25d4d5856bb90e402551f2384e0654dde5f83ef3a0195": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "cefbf3f17226ce726e9585951d671c21e25c97789150997419392c02b443dfdd": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "51587058cb7eecefbb85f6daf4a761fbcda96af9352d079ae40cfe4ceaf9cfbf": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "8bbeb920fe92b80d507e072346a0e97ec490e1a39c638e20bd2bd01a5404a93e": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "6cba1c9c11b7620df2de73e6cda7550458fb8defe7b36af08a72cd9486f4d6b1": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "19a513c424ef9ab1d18d41280887bcdac9ffe6249114b2e54d468716475e2207": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "c8ea16186caad32d91dd4708600caa50084a18b0e5c1f00ff19826d4ad9713a3": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "2a74dfd251ceb1f59be4cfccf3e00d54592c103b9b8a576eeb1f6aec930cd8e0": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "ff58039d2123b6a1479c5e66d98ef03bcbf8642ee4a901696de4d348680eaade": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "d2375450257da02195b459f4414da48c6887ea4e39fd6c03c4f1530ed870d93b": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "51ce3c50c1a7bdccb00c251caebd7f5117bc550b45939d8d9ed80ecd8fa44349": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "843ad52d432e4c830936b0c44b789b81f7ea1891db5d17bc1fa5ce6932d6067a": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "purchased"
+  },
+  "9ed7c05e7d90d5a34f8f0f1f7fd6ba9e3e7cdbb70d414c0ffdd2289864c68b20": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "purchased"
+  },
+  "c797826843bd0b8feb69808209ae9a1bdbfd3d9364427f10eccdeb57a64aa5a2": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "purchased"
+  },
+  "34b98f0f7efd968a75f67a6ececcca55e4da4d0c5dba9c346bdc0790b3ee505a": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "a3d3422681819e5846cad2ae37c66e8c4ae03025f259c3f7b93ba9603bc40698": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "af14bd989b9931e5d4b1f834356232847be8414289976fd8cb8452271440460f": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "1ff9b506630f2588046359664e4c193528edcc1d06bc1f5e226bf55180eb09ad": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "28da4deb744e86801a4ebd3782a025e935f2af1c3be244d739b5efe20b3879ba": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "fdd4ffe569e0a452f283b47dd49c70b05158bc037a9932f5fe9ef3a884cc1861": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "cod_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "8d677ab610f196342d804c1c995d2c78043c8dad8f37c2072eeebe7c9b74dcb5": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "083bca9df9ddd1f6b14c0747525cf332983f6146adb1f0e9aaeacd073d0dc064": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "4cfe31a81b21c5e11b91a2c076a469fab18d2b226f6e841c88ad8aed15d31ccd": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "purchased"
+  },
+  "7f9ba8c482eec1588abc4da722736f1c0680b7ab5ca56d7083bb23c8135c2149": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "purchased"
+  },
+  "670d8d78faea168f797a9bab93d77941c4a857375cc6da6a83293db430858db5": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "size_unavailable",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "2d0dc3ab9425a442865126910409ce1286942ffaf54162a8ab1a58e8c46473b3": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "b43a813b5b90747de07a9fce31688fec7995403234f06cf2d030cfc01c9537ac": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "size_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "b19ee48dc053db3dfec4eceb7c0a9bbbfb87ea4a8e84b997f410463b1515ccaa": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "eba7ab6b9465de9f6b68745683999c94ed21f443a75144ae469f741f733b47a5": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "30ffb9b390ce1784946b6247be9938715160a967c40a8564a9206d57c4f7b9fd": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "c00a11a45c0cae90f8e3bc42b4e3fe50e4c592e2ce16e5fd148f37b5d9e2719c": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "f693f27d1e0964eead6a8daafc21d655025515c10a03a84a643667305298215b": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "858c73ae6728945dc91fe7208664736028215067dea7c8544a79987ad52b3c30": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "cod_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "464054790bbeb8d7774a2e99136699e2c1adef89ef8e233a976d40d40ecd1a38": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "56a7be1394b0110e7ae65eba383bf666770d09ac47244aac14e10f61e08d78df": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "422f66f90d2a8f2cd135cdb3b94938502ffd952c2cb63f9ee3f76823cdea51bc": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "2e7bf74f7b27e3ab3d8fdad3e0577bf82924e1432fd11b12e3717e05cd027b8a": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "size_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "85eccb63027b95be0fb89caa64ee5aab8a90690fede039f20a58606114869998": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "881c0f9b551579b14ed3ff5d94fcdfb654916cba3575a8dabfd80a4795a6c72b": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "2606b341fd1dd77b1887df6d8c0a48bb124d3605de76664d9122f570bb3cdf37": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "846870ea94fa2e68e89e2f2733f400f24069839909931b73d4be324ee67b4ea3": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "83b8669d1166b59e85590232a587cffdb9b04ae625cd1e9fa0721d2d885ecca9": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "cod_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "7f5cea790559e33a21b249623aba1737c570f9e67cbb5ed0e8ad276ec0ba207a": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "54a8c9b37bc122cd5eedb211db1d70bec5ce083dfa0696cc5df1664cf44e1f25": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "1eed53e90f37cae7245ad6326403886d49e012d5dd602c984dd62dde61e6ca9b": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "b2d4e10ed89a547fb333ba33ab59a2687b2240edd0c4d88c4bf44b694b4061b4": {
+    "wishlist_motive": "comparison_shortlist",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "394228e71fc6ec3d847c5a02b6101e8c15602910a455b3402b280bd57452d534": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "dcd91c45a15e90349bf701d460bd36158e81f78e252720319c90f84f18863d33": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "122eb2cfa275f457960f3c325c0e1456b7e9ca6fa4b4da414380539d8a8b3e03": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "5f5444a7562cf0f22faf2f67660ded90f4410c1454ad133e6de73350cea03393": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "0d0062067824d6b1596dae03d8ab214a527129915c866215a1a1d769d2347783": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "c45d2d60f63380d3629ed5285a72958de3c0b3db16e7f999de8e77799bc036f5": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "cod_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "251630746c68d4896d18e1375108679843edfb275f035dc86ee15de6396d7074": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "fit_doubt",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "75671ed6e76196b649dc1d4a37251a7fff43e3f1c0e7019251d2774cf2abfa7d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "95bdbeb0f75583fce470fd2983cadd6627ffa8bfb463512180f4550872303c88": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "2b9ab8e51a8ecc782180f65815501f1be1e254f8f44958aa1e2a9e160b75a8b7": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "97eb4e5ec7517f37023524309319ce9f29675301a9d429db8913c5244447d80c": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "2a2e0420be8d52cae053b22bd166124475abc1d06140d929af91b5e38feebe5a": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "7f15ce282a51b61a2172e64f1c2eba0d7a1cfeaca18d1cef1849069252d008ba": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "14e7e34c955be33efbc7269badff10f91b7ccedaf4bfb1ee245c1f7824f2bfc2": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "da06ff9cf6d8890779dd4daa4120f982302d980733e64b65edf126cbcf86a978": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "1457a373fabc634d44cbae5f6b9384af0a702a84a1cf6b4a20ad6390f387d9fc": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "both",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "93f526578cdaadb551d00f81b2665961b6cbb79591cbde069f812c5e0be99b69": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "6a0f5d15f033d9ffa951d63578283141679eb5d28316386235d376e08a274bca": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "2b7b16aa489c9e499e10a0152f640c01180cae5040a2d7be9fceeba2686dfbfd": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "ab9b0c3009a6fcf1433356d8f057b9c99cc317617953471f8f5ca0d6d20307cc": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "bd9f46512c3f15fd857c4776f40f623ab3f44424d21f4584d6c310bec0668f22": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "c3f4e5ea778b81f3b3722cbcf19da5fa987f83f9165326a43efce9caab00128d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "c2a8b9999905583c29896a57b1550eeab4f5171f0a78f38bce783fceda6d5a03": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "b60406ba17cc25719279e7a12be04c71e1314b811c04be7a671e96e491df5a9a": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "b1f3a5a00eb4cc3df3fc21c0fa3ce001f3f3597bafaa3e9712605657e1ab3d8c": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "a1b0ed0ef5faf91f4c82dbd74b3f88af1c78520813dfbad6d236c477662e9798": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "dd4ca8e6a4a6fc5dad57fe080bb778f6b393b4a909f020dffa5e9335c8cdc5c3": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "028ccbd43fde6de6d1590807318a12c8afc4f26a613f8964574c6bfe5935a3f2": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "2d25b1939a9f68fa773028122f63d825ae8a828a9becfd1c9fd5300162d0891a": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "9f373c79cdc46b98614cb51a9b79a7588d42c0e80abd4aca5d2a96831cf2d00b": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "8aff6ddc2ecdcbebe8e6448d0bb99f4d2edb387912991fcf1c7b982188b7c832": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "d1b676534476e9a5e7bdaecb108b31587bfe2934fc719587488a588d1efef258": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "686c29b1bfbfc259a183fbe2e978a153ede8379b736ef2c1faaf843f6380027b": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "91b65caed339019a166757ad4855efbc5a8d6aa59b01b5a79dc30a01b1d2275c": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "32fbcb7ae05a65939adff77363a5a4ad6d5ed0e83c7bde297eab5afa7a7abe67": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "e6c97793b1a714643d942be782245e8d60728c45a52b2178a50aba1d70c1c023": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "780bcb7b02249eddcc840b5c79fd042ee1807fc14126075c26a5995bd5c9d1c1": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "fd013094bb0192cd54057102ad9216020aad4dd815908ec7bb401b0eb4544b31": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "0aed2f64b7225e02ec54adff3f54161a3ec4bc8801c687d3170725bd88718fef": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "f5ff7fec63ee924603d3e5b9312ff877f2900708bb2e4598da7b85808b5747eb": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "010cdbb72a29c34728d52d6cae5cd1bafe4828937bec50a95602f2f2aae263f5": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "returned_blocked"
+  },
+  "7ff16a2f1f371bfaad3af0efc102cb2a622886f9e8d67a97070f3c06d621864e": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "20c213d6840e9d19704da107a4d3a3a8e9ee1edc287494a3bff158baa69689d7": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "d20521e4b92161503613830f46cef9f9dda0cb3d0ecd70fdbbb8552a7c999e69": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "f5c627bed4bbb1a76fa883a70c3e5843f81cb095be67348bea8e2556fa16ed5b": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "cddf4e91c91ec5127904c51f3f648c4f212df6b5e28f7f0b4e152a9de986054e": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "a2d04db034e57045e15bb2984535173d120aa65eb9e27fd656a0a1865d2637c5": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "4e0c6327a626b3abf328b08dd7ca5f3a6f5ec45f2674a9b41d32499593e678ac": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "8ae03d5e99e1afbecf13f0f0d1d337e0e32535e78a49f923954332b0d222f80d": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "budget_constraint",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "81c048c4d39146bd9e45002c5739c9b08692284ddce0040d8c970da00e07f991": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "f5c5afaaf9ec4549b1e276ccf580338a8ca17924adaf944669f56b64bf1fcaae": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "8fa023bdcda35f42153ff7043eab8e4dd5a5f6a0fa37a486a607e15f7378d4c9": {
+    "wishlist_motive": "price_watch",
+    "blocker_type": "out_of_stock",
+    "blocker_category": "both",
+    "external_action": "bought_elsewhere",
+    "journey_stage": "abandoned"
+  },
+  "a78f41774c493f705fc8277e97e315357ec90b814e6f46802151fc36bd148877": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "374625bf98622a270d8deca1c3a897bf4254d56e3793cebec536216c50fbdc0c": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "serviceability",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "209770357733ab6f9b4460c0c707cd0deb2e434cf1614484d537b74872f60683": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "1ab9fa94f693cdbc1ea4f71566db4b675ee10498c7ada2b6efef3e9cb2968e97": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "budget_constraint",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "41c353a1a69ee7fb90abf209a57bedd76ea1d0fcfa7197c34a43076e015d9bf8": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "3ab0526ba9f02946c232505d42258df9a0348bbd45c2a95c6a876ebf2d5a40b0": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "0d0fbd358c278d821cb92c46bfcdef170ae6b676d355e801f3620016e07af486": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "fc0c1d34d7d2b5b397b496d8043aa5376f97e4f8c08e9c8bb78a73e34a48e6c5": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "5bf4f54bbf09e3ff5b51611b19f52957b1aed3591d6651ba18d77a1d569c3d67": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "fdf41ee13816260ffb2630712b4f169753792f650a38f9dce5bb6057e519ba67": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "f740558e25f441fe0ab858bdad1f22bab0bb24a1472969471327d65ea5f9a505": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "08e9ae2dce9b502cc602fe888339d8b3f113236f86f480089917910de341f992": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "6d404791f28e65a9ffa79582722473facd2ecc18802d1d1eb0f507a4ddd9d58c": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "507e1e51460bc818592e9b783908724f1d5bc39216d90c8e1bcb6ed92ec109c4": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "60f8a7d12d381fc744129c2b8cbd0c0645c60548143388edc30889beef2b777d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "9658eb8bdece067abd3529934132511d1db357d22cff67f6068f10ffc45464ba": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "7bf6dfd5f564f93de1e63706693c581f6c935021a00d6b8829c7ee121727fd0d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "05c0fefce82ec9703962f4499a660ba2e92968ed4a461a641da283a7c9cfca3d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "6708145b49d57d0d982e527ddd562e04861e2ff17c01ebfb504711a290de95af": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "204cd043118f4b7e0bb51c9695c83ab8bdca364fe6d24bdbe87ab9fe311b9c39": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "4fbb959f4c3c4119e9ad8c4e667df81f98d8bf9044902bbf604386ec124c3289": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "88f4002766dd2a9518818dfe5b4b5abb04b9298024bee491a3afa060f93683cc": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "fb21d520ba511e4f270b5bd500bdc1b1d14251753a89f6aaef5a419ea8ab8af6": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "182aea06179a35d1cc8e10dff8b1788384a956252741a66e7b04becf5ab6b0a1": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "unclear"
+  },
+  "7e6e76bb6ae870e82129667cf150360d1eb6c70308cce41bc22bdf23b6b65a41": {
+    "wishlist_motive": "budget_timing",
+    "blocker_type": "decision_paralysis",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "083679a68ab15ca7f90b429f14018b5fab6d457e05ef7dd9258a11aa7be66214": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "33938ae10aa0c44966527c5f62355cf85782721624bcec9c37068bf57c3a61b1": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "budget_constraint",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "494fa3497221ebbc1771f2311af01d78c44ac2e08bf015ffa4a782121252dd0f": {
+    "wishlist_motive": "occasion",
+    "blocker_type": "budget_constraint",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "68aaf0dceea39bb094a348c0925fd741517e5f964b8dc27fd6fde9ea2d0d3474": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "161bc99912aafd5db2253a2428a743d73357c4e22f90609f9afe30444a1c8aee": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "budget_constraint",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "29cfc869f83b0ad6125125788d92d79610e8d872d1d7293bacd1fa7518a117fa": {
+    "wishlist_motive": "budget_timing",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "e55ca5ece3a62a8724a2e80648f4826f6bd75d071aaa842d9cf92724f4c74a67": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "5c3956f51ddc97ea06f7c45a425ae2740b5cad5530d3442c5a89c1f31372e462": {
+    "wishlist_motive": "comparison_shortlist",
+    "blocker_type": "decision_paralysis",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "fe865e0804c827f4c09203ed851700b44d94c0cb323705a052f976a3c6c634b5": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "size_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "b414cf2791fad929a5ee48800a69d4ae6965e9550cde10a1855438244a05f219": {
+    "wishlist_motive": "budget_timing",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "cd6fd39830e1fc8c832f9d5ede4440d7ffa096f913655d5f37bfa63744dcc7db": {
+    "wishlist_motive": "comparison_shortlist",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "f258c08f406d51961b3bbaa877574e6e53e13cb83c0205596fdc7a2631bc97c1": {
+    "wishlist_motive": "comparison_shortlist",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "d8fb7b06e4fa2939df5823bee718205923b450ec1a0b66537e231a619ccd8ac3": {
+    "wishlist_motive": "comparison_shortlist",
+    "blocker_type": "decision_paralysis",
+    "blocker_category": "psychological",
+    "external_action": "bought_elsewhere",
+    "journey_stage": "abandoned"
+  },
+  "0ba06104a0b011f6146235aa9d3146161345068a6aaf7a283b103daf5b9f93c2": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "size_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "dd68a479954d2cf14c57cc2bd8cde6c12e42f3be404b489cca72ac692ddc3c74": {
+    "wishlist_motive": "budget_timing",
+    "blocker_type": "size_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "8564886a5cab65a24a4a6f5ff24d46b408ebd4ad23f3a3e9a464f6a179196f0e": {
+    "wishlist_motive": "budget_timing",
+    "blocker_type": "fit_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "712773bd70f2d32eda0073e00fa185c15c2ad009d5a5d4a05163ae5efbc83c40": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "401ff6dda22b741ab1b353e2bfe60aa52ce2f80017763f3282267b1aef8184bd": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "decision_paralysis",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "462a57259d8eb9b8c74d621237235b5e1a71e8c5223862ecc5064c334f2372da": {
+    "wishlist_motive": "comparison_shortlist",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "6f5bf4618405599fdce9b349a14b37b7dc8731763f276370e9aea6fe89c29d57": {
+    "wishlist_motive": "comparison_shortlist",
+    "blocker_type": "size_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "7f3a8d08cac1d5f1ff8fd656f3b4d1ec93ab9d0afa56f00da57a9049006c8e65": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "budget_constraint",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "74ce7002ba688cc5c00b4fa0c113fe0221b866f09f3f6c08f3b4d78f521792ee": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "4ed7e544e896ab5e9fd8b80423d4a9ed5f98093d358f88e4a8c40ea2a66e4232": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "fit_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "6f189f414c957eb70c20719f2db1153c6db7c6caa8723ed1acb418db52ac3c6d": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "decision_paralysis",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "f439c7001e0cd046bf6ca2f4366c858f40c8d244936364ee041dc12b3fe7a6a7": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "decision_paralysis",
+    "blocker_category": "psychological",
+    "external_action": "bought_elsewhere",
+    "journey_stage": "abandoned"
+  },
+  "56baa670aee592c9fb9df1f1c76098c6c7732c3871d43a6d49c80133f3f0fd49": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "size_unavailable",
+    "blocker_category": "structural",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "d4d809aef6c3b7bda81f36718f5d42f8a33b3b62d9db115799c0b5f0787bb9d3": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "f45856db25ee567ea965a70e8a5bebecbcf8f447e50751d940e58f6b2b019eba": {
+    "wishlist_motive": "budget_timing",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "f3cce03eb72cfe0c3d64cd9afe23ef0cab53f3a58a6230afa7052b9504fcc5aa": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "budget_constraint",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "e5dc591443b1d48608c66bb05e6bdd325e5014032f663ce0f3989f3a143dd788": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "price_wait",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "abandoned"
+  },
+  "2364ca61ffb8914b0eed23f7a46c830400375fbea49795eb7f9d0c418ae6f445": {
+    "wishlist_motive": "aspirational",
+    "blocker_type": "fit_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "763c8ff914500742ad7c0f12e13fa9b31559ab20689f0d8577814a7060fdd6ff": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "budget_constraint",
+    "blocker_category": "psychological",
+    "external_action": "bought_elsewhere",
+    "journey_stage": "abandoned"
+  },
+  "f1d1ff1b9656238bb4ccdbc913ed221d5f411b3adddf9fc23818b4ee2b4ae7c3": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "none",
+    "blocker_category": "none",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "d7bc9ea721af05f1c896d8d4eee6e6015a8262e5378775766262e1f04aa8fe2b": {
+    "wishlist_motive": "budget_timing",
+    "blocker_type": "budget_constraint",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "cbf4e39c83b191aa5f250968a4272c64d9777be3a6d93a1bf9672d3bb95ed71c": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "no_reviews",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  },
+  "40ca08370022d991f85f4e88b3a0d2191fa61358b70c2a59ea6b8b194b6b8aa4": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "quality_doubt",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "pre_save"
+  },
+  "e08e912777e29e173701776649b021c0a24f3d777d7fa5a47387c2ec055532ea": {
+    "wishlist_motive": "unclear",
+    "blocker_type": "forgot_wishlist",
+    "blocker_category": "psychological",
+    "external_action": "none",
+    "journey_stage": "saved_waiting"
+  }
+}

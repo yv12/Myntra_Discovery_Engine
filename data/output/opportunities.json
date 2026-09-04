@@ -1,0 +1,1342 @@
+{
+  "metadata": {
+    "timestamp": "2026-09-03T15:33:59.649905Z",
+    "source_classified_file": "data/stages/stage_03_classified.jsonl",
+    "total_records_evaluated": 384,
+    "ranking_method": "Sorted by prevalence overall count (descending), then elasticity rate (descending). Dimensions are held strictly separate.",
+    "elasticity_rule": "Derived from survey meta only. Blocker types not asked in survey are strictly null, never zero."
+  },
+  "opportunities": [
+    {
+      "blocker_type": "quality_doubt",
+      "prevalence": {
+        "overall_count": 22,
+        "overall_denominator": 384,
+        "overall_percentage": 5.73,
+        "by_source": {
+          "interview": {
+            "count": 1,
+            "denominator": 4,
+            "percentage": 25.0
+          },
+          "play_store": {
+            "count": 13,
+            "denominator": 296,
+            "percentage": 4.39
+          },
+          "reddit": {
+            "count": 0,
+            "denominator": 45,
+            "percentage": 0.0
+          },
+          "survey": {
+            "count": 8,
+            "denominator": 39,
+            "percentage": 20.51
+          }
+        }
+      },
+      "source_weighting": {
+        "weighted_rate": 1.6593,
+        "weighted_points": 41.0,
+        "applied_weights": {
+          "interview": 4.0,
+          "survey": 3.0,
+          "reddit": 1.5,
+          "play_store": 1.0
+        }
+      },
+      "elasticity": {
+        "fraction": "2/8",
+        "rate": 0.25,
+        "percentage": 25.0,
+        "numerator": 2,
+        "denominator": 8,
+        "sample_flag": "adequate",
+        "answer_breakdown": {
+          "Keep it saved and think about it": 3,
+          "Buy it within a few weeks": 2,
+          "Still wouldn't buy it": 3
+        }
+      },
+      "ownership": {
+        "owner": "product",
+        "rationale": "Buyer reviews, verified photos, customer Q&A, material transparency"
+      },
+      "evidence_count": 22,
+      "evidence_samples": [
+        {
+          "record_id": "329ad0ce767e1588419f16ad4cc12e9f383da0117e3de206dcbab679ebefe837",
+          "source": "play_store",
+          "text": "Increases the price of items that are on your wish list.Size chars are always confusíng.You almost every time get the sizes of çlothes wrong .Their delivery partner is the worst,you won't get your order on expeçted date or.You will get wrong order or defective ones.They will always delay your order.Myntra as an app is handy to use but the products, though many,won't be as shown in the app.Lower your expectations.There are way too many features and offers to extract money from you.Don't be a fool",
+          "created_at": "2026-06-25T12:13:38Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "both"
+        },
+        {
+          "record_id": "da00709bf80e2d0f5b79c6e413dea3e71cd79a84a72866b50cfa6bbbb69a4c86",
+          "source": "play_store",
+          "text": "very pathetic customer service, I've received the wrong product from what i ordered, the product immediately went out of stock and what i received doesn't worth near to what i ordered and the customer service is so poor that they didn't solve the issue from past many days. this is some sort of SCAM they're doing to fool us.",
+          "created_at": "2026-06-25T10:46:09Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "both"
+        },
+        {
+          "record_id": "bd89ce0f8b56c7ffc63bb35834cc91b978d0c4311496f70c26d40bec51c73b26",
+          "source": "play_store",
+          "text": "I have been using Myntra for years, but recently the service has become terrible. Almost every order has had issues—missing tags, damaged items, or incomplete products. Customer support often leaves us waiting for days, and by the time they respond, the return period has passed. My latest order was a dress missing its belt, and I'm still not getting help. It's frustrating to waste both time and money. I'm incredibly disappointed. I can no longer recommend Myntra based on my recent experiences.",
+          "created_at": "2026-06-05T22:41:11Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "15d89cc6f6c2fdfd9585d3d2af6fb45efaee818fcb5d584235a7a1f6f58a693f",
+          "source": "play_store",
+          "text": "I purchased an item and recieved a used cloth visible stain and yellow marks so I wanted to exchange it .but my size was out of stock ..hence I returned it ..and orderd the same product after 3-4 weeks later in a hope to get new product...but guess what..recieved the same old used product with same stain and visible yellow marks.... disgusting seller and disgusting product quality ....this implies that exchange products are never washed or cleaned before handing to over different customer ..",
+          "created_at": "2026-06-03T18:54:09Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "both"
+        },
+        {
+          "record_id": "ffd058547f21ca2b599dace9ef4a494b7112ec7219314a03d710e145cd4eff46",
+          "source": "play_store",
+          "text": "I was an ardent fan of Myntra and I used to spend a lot on Myntra. offlate Myntra has started wrong practices of decepting and selling 1st copy. I ordered Diesel spectacles frame and after waiting for 10 days I received guess product that too women spectacles frame that too looked cheap and 1st copy. I raised complaint and customer care closed my ticket by initiating return saying exchange for same product I ordered is out of stock. How did it become out of stock if not believe to me?",
+          "created_at": "2026-05-25T22:03:53Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "3d8cf5e8d7fceb95c51a142762a2a0c95b61361403d24b9d8f8732e4aebaf9c4",
+          "source": "play_store",
+          "text": "In this app they will sell you very very low quality product at a high price. SHINE app is the very best in compared to this app. You will get best quality product in SHEIN. quality of to product is not given to you they only need money so they sell any bad to product in high price. they they show the branded clothes in the image of this app but sale very very low quality clothes.",
+          "created_at": "2026-05-19T18:23:34Z",
+          "motive": "unclear",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "987e03756240f414f2d5d430645c1b4c1f1895b09c457b81986d4c5d47b81fa4",
+          "source": "play_store",
+          "text": "App is gud . But sometimes you order a product n doesn't fits you well n size xchange is also out of stock n we hve to return it ,n sometimes few product does not have that quality which you expect n then you have to return the product , After this myntra considers you a failed customer who returns frequently n deducts xtra ₹50 + handling charge s total upto ₹80 almost . Who will shop next time from myntra . You don't check profile of a customer who purchasd multiple times frm myntra but returns",
+          "created_at": "2026-05-05T09:07:45Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "both"
+        },
+        {
+          "record_id": "a61a50c16c0d17602a73d2c25f9deca00dfb8c4a1e5767fe0dd0154ab2f98292",
+          "source": "play_store",
+          "text": "Terrible experience Ordered a t-shirt and jeans from Myntra. The jeans arrived 10 days late and the t-shirt was the wrong size and color. Material feels super cheap compared to the photos. Customer care kept giving copy-paste replies and no real solution. Won’t order again Return/refund problem they didn't get you refund they just said wait for 2 to 3 days they just make you fool",
+          "created_at": "2026-04-20T13:27:54Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "psychological"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "blocker_type": "budget_constraint",
+      "prevalence": {
+        "overall_count": 10,
+        "overall_denominator": 384,
+        "overall_percentage": 2.6,
+        "by_source": {
+          "interview": {
+            "count": 1,
+            "denominator": 4,
+            "percentage": 25.0
+          },
+          "play_store": {
+            "count": 0,
+            "denominator": 296,
+            "percentage": 0.0
+          },
+          "reddit": {
+            "count": 2,
+            "denominator": 45,
+            "percentage": 4.44
+          },
+          "survey": {
+            "count": 7,
+            "denominator": 39,
+            "percentage": 17.95
+          }
+        }
+      },
+      "source_weighting": {
+        "weighted_rate": 1.6051,
+        "weighted_points": 28.0,
+        "applied_weights": {
+          "interview": 4.0,
+          "survey": 3.0,
+          "reddit": 1.5,
+          "play_store": 1.0
+        }
+      },
+      "elasticity": {
+        "fraction": "5/7",
+        "rate": 0.7143,
+        "percentage": 71.43,
+        "numerator": 5,
+        "denominator": 7,
+        "sample_flag": "adequate",
+        "answer_breakdown": {
+          "Keep it saved and think about it": 2,
+          "Buy it within a few weeks": 2,
+          "Buy it straight away": 3
+        }
+      },
+      "ownership": {
+        "owner": "neither",
+        "rationale": "Outside platform control; user lacks disposable income"
+      },
+      "evidence_count": 10,
+      "evidence_samples": [
+        {
+          "record_id": "02be5e4afb711032c3ee72ccee0713da04e5c9bafcb005838d53b180b3929988",
+          "source": "reddit",
+          "text": "[Thread: Myntra Sales are just for namesake and none of the good items got any discounts whatsoever] Yes the only thing I recently bought from there was k18 mask 50ml. Esp with platform fee of 23/- even if I sometimes see a nail paint or lip colour i just don't buy it. When Myntra didn't have platform fee, i used to randomly buy stuffs around 100/- just coz it looked cute/interesting",
+          "created_at": "8d ago",
+          "motive": "aspirational",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "529a41cc37fe80ad79427de9fa28786922e61e00b436737dbb3f5fc23fea2636",
+          "source": "reddit",
+          "text": "[Thread: MynCash Daily reward system removed 😡😤] Earlier platform fee used to reduce or become 0 because of Daily Cash 👿😑",
+          "created_at": "10mo ago",
+          "motive": "unclear",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "be25c29c28cd4466d996a89285b8e3573f3fcade172950607cfa903decd9b19b",
+          "source": "survey",
+          "text": "Main reason in wishlist: I use it more as a collection of things I like than a shopping list\nWhy saved instead of bought: I was waiting for the right occasion or the right budget\nStatus since saving: I still want it\nBiggest purchase blocker: It's more than I want to spend right now\nHelpful resolution: Telling me when the price drops\nAction if resolved: Buy it within a few weeks\nWhy lost interest: I waited so long the moment passed\nFit confidence rating: 4.0\nQuality confidence rating: 4.0",
+          "created_at": "2026-08-24T19:54:55.817000",
+          "motive": "aspirational",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "bb8664864e409c52e1696a633b76a132d325ec52e08fe46b11cd0981001ac99f",
+          "source": "survey",
+          "text": "Main reason in wishlist: The things I save are usually more than I want to spend\nWhy saved instead of bought: I liked the look of it, but wasn't really planning to buy\nStatus since saving: I keep meaning to look at it and never do\nBiggest purchase blocker: It's more than I want to spend right now\nHelpful resolution: Telling me when the price drops\nAction if resolved: Buy it within a few weeks\nWhy lost interest: I waited so long the moment passed\nFit confidence rating: 4.0\nQuality confidence rating: 4.0",
+          "created_at": "2026-08-26T12:54:45.884000",
+          "motive": "aspirational",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "e67f5e57400a89a9df79d3e707e3a033ae0d5c0b9785a2f77cbb18b125f1a99f",
+          "source": "survey",
+          "text": "Main reason in wishlist: The things I save are usually more than I want to spend\nWhy saved instead of bought: I was waiting for the right occasion or the right budget\nStatus since saving: I still want it\nBiggest purchase blocker: It's more than I want to spend right now\nHelpful resolution: Free, no-questions returns or exchange\nAction if resolved: Buy it straight away\nWhy lost interest: I found something better\nFit confidence rating: 5 — Completely sure\nQuality confidence rating: 4.0",
+          "created_at": "2026-08-27T15:29:53.375000",
+          "motive": "occasion",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "2019027470147cef90eec1d415df177ed2f6f78ef085d7a8cd06f243613f33f8",
+          "source": "survey",
+          "text": "Main reason in wishlist: I don't go back and look at it\nWhy saved instead of bought: I liked the look of it, but wasn't really planning to buy\nStatus since saving: I still want it\nBiggest purchase blocker: It's more than I want to spend right now\nHelpful resolution: Telling me when the price drops\nAction if resolved: Buy it straight away\nWhy lost interest: I found something better\nFit confidence rating: 4.0\nQuality confidence rating: 3.0",
+          "created_at": "2026-08-28T23:48:38.920000",
+          "motive": "aspirational",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "cbdace59432875d6ca52390e7422bbf36b879efef4c564ba31623e9acbe0d641",
+          "source": "survey",
+          "text": "Main reason in wishlist: I don't go back and look at it\nWhy saved instead of bought: I was waiting for the right occasion or the right budget\nStatus since saving: I still want it\nBiggest purchase blocker: It's more than I want to spend right now\nHelpful resolution: Telling me when the price drops\nAction if resolved: Keep it saved and think about it\nWhy lost interest: I found something better\nFit confidence rating: 4.0\nQuality confidence rating: 4.0",
+          "created_at": "2026-09-01T16:47:44.340000",
+          "motive": "unclear",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "0b12ff50d1400d6fe2948e24e0101996169518bfe53a96d9f6e5b30fd216432c",
+          "source": "survey",
+          "text": "Main reason in wishlist: I forget what I've even saved in there\nWhy saved instead of bought: I was still comparing it with other options\nStatus since saving: I still want it\nBiggest purchase blocker: It's more than I want to spend right now\nHelpful resolution: Telling me when the price drops\nAction if resolved: Buy it straight away\nWhy lost interest: I waited so long the moment passed\nFit confidence rating: 5.0\nQuality confidence rating: 4.0",
+          "created_at": "2026-09-02T12:44:49.499000",
+          "motive": "unclear",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "blocker_type": "no_reviews",
+      "prevalence": {
+        "overall_count": 1,
+        "overall_denominator": 384,
+        "overall_percentage": 0.26,
+        "by_source": {
+          "interview": {
+            "count": 1,
+            "denominator": 4,
+            "percentage": 25.0
+          },
+          "play_store": {
+            "count": 0,
+            "denominator": 296,
+            "percentage": 0.0
+          },
+          "reddit": {
+            "count": 0,
+            "denominator": 45,
+            "percentage": 0.0
+          },
+          "survey": {
+            "count": 0,
+            "denominator": 39,
+            "percentage": 0.0
+          }
+        }
+      },
+      "source_weighting": {
+        "weighted_rate": 1.0,
+        "weighted_points": 4.0,
+        "applied_weights": {
+          "interview": 4.0,
+          "survey": 3.0,
+          "reddit": 1.5,
+          "play_store": 1.0
+        }
+      },
+      "elasticity": null,
+      "ownership": {
+        "owner": "product",
+        "rationale": "Review seeding, incentives, alternate trust signals"
+      },
+      "evidence_count": 1,
+      "evidence_samples": [
+        {
+          "record_id": "c41c1a0be92467e3",
+          "source": "interview",
+          "text": "I mostly buy clothes, but I have huge anxiety about the return process—couriers often delay pickup or dispute tags. Because of that, items with no reviews or only 1-2 generic ratings feel extremely risky. If a product has no customer reviews and no photos from buyers, I will leave it sitting in my wishlist indefinitely. I'm constantly worried about being deceived by studio lighting and airbrushed catalog photos.",
+          "created_at": "2026-06-15T10:00:00Z",
+          "motive": "unclear",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "blocker_type": "forgot_wishlist",
+      "prevalence": {
+        "overall_count": 1,
+        "overall_denominator": 384,
+        "overall_percentage": 0.26,
+        "by_source": {
+          "interview": {
+            "count": 1,
+            "denominator": 4,
+            "percentage": 25.0
+          },
+          "play_store": {
+            "count": 0,
+            "denominator": 296,
+            "percentage": 0.0
+          },
+          "reddit": {
+            "count": 0,
+            "denominator": 45,
+            "percentage": 0.0
+          },
+          "survey": {
+            "count": 0,
+            "denominator": 39,
+            "percentage": 0.0
+          }
+        }
+      },
+      "source_weighting": {
+        "weighted_rate": 1.0,
+        "weighted_points": 4.0,
+        "applied_weights": {
+          "interview": 4.0,
+          "survey": 3.0,
+          "reddit": 1.5,
+          "play_store": 1.0
+        }
+      },
+      "elasticity": null,
+      "ownership": {
+        "owner": "product",
+        "rationale": "Reminders, smart resurfacing, contextual nudges"
+      },
+      "evidence_count": 1,
+      "evidence_samples": [
+        {
+          "record_id": "b9e3aabc03f8cbf2",
+          "source": "interview",
+          "text": "I save dozens of items across different sales and moods, but then I completely forget to go back and check my wishlist. By the time I remember, either my mood has passed or items are sold out. What would actually convert me is seeing real buyer photos—catalog product photos on European models aren't enough to judge real Indian skin tone color matching, drape, and fabric thickness.",
+          "created_at": "2026-06-15T10:00:00Z",
+          "motive": "unclear",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "blocker_type": "price_wait",
+      "prevalence": {
+        "overall_count": 21,
+        "overall_denominator": 384,
+        "overall_percentage": 5.47,
+        "by_source": {
+          "interview": {
+            "count": 0,
+            "denominator": 4,
+            "percentage": 0.0
+          },
+          "play_store": {
+            "count": 12,
+            "denominator": 296,
+            "percentage": 4.05
+          },
+          "reddit": {
+            "count": 2,
+            "denominator": 45,
+            "percentage": 4.44
+          },
+          "survey": {
+            "count": 7,
+            "denominator": 39,
+            "percentage": 17.95
+          }
+        }
+      },
+      "source_weighting": {
+        "weighted_rate": 0.6457,
+        "weighted_points": 36.0,
+        "applied_weights": {
+          "interview": 4.0,
+          "survey": 3.0,
+          "reddit": 1.5,
+          "play_store": 1.0
+        }
+      },
+      "elasticity": {
+        "fraction": "5/8",
+        "rate": 0.625,
+        "percentage": 62.5,
+        "numerator": 5,
+        "denominator": 8,
+        "sample_flag": "adequate",
+        "answer_breakdown": {
+          "Keep it saved and think about it": 2,
+          "Buy it within a few weeks": 2,
+          "Still wouldn't buy it": 1,
+          "Buy it straight away": 3
+        }
+      },
+      "ownership": {
+        "owner": "product",
+        "rationale": "Alerts, price history graphs, price lock mechanisms"
+      },
+      "evidence_count": 21,
+      "evidence_samples": [
+        {
+          "record_id": "20f361c7fdf784c3b4a42ba843ea970a1c5cd487ba4de1f392d5413ecf543ec6",
+          "source": "play_store",
+          "text": "prior to bad experience u deserve 2star. After using myntra for long time didn't expect this type of service from u. i can't understand the reason for sudden price hike of shirt in my cart in 10 min. Previously i liked ur website for great collection in reasonable price. Today I'm going to buy a shirt for my brother and added it to cart . But after 15 min when i open the app again to order it i found that for no reason u had increased it price about 150 rupees . Uninstalling now .",
+          "created_at": "2026-06-08T00:54:19Z",
+          "motive": "price_watch",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "217526fff5ebf8b314dc262b1295323270009c5caef78e5bc95ccb106d89b581",
+          "source": "play_store",
+          "text": "just a scam. Items worth 3000 rupees in my cart suddenly jumped to 5000 in one day. What a scam! People just fall for it. Ajio and Nykaa are better! Don't use this app to buy items. at least amazon and flipkart stick to prices that offer!",
+          "created_at": "2026-06-01T21:07:18Z",
+          "motive": "price_watch",
+          "journey_stage": "saved_waiting",
+          "external_action": "checked_other_platform",
+          "category": "psychological"
+        },
+        {
+          "record_id": "f86bf81827edd4c06e5e25a4e53d1d03d158df6e279018c1bcb48d965802e109",
+          "source": "play_store",
+          "text": "myntra is really scammer. Item in wishlist is shown at almost 50% discount. once you add it in cart, discount reduces to 30%. worst experience.",
+          "created_at": "2026-05-31T12:22:33Z",
+          "motive": "price_watch",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "0c8bd2c0ec481086608580d1a84344145d834ddd063a73440af9c027b6a82fbb",
+          "source": "play_store",
+          "text": "quality is best but price High so I Wait to price drop out and any deal",
+          "created_at": "2026-05-30T17:38:25Z",
+          "motive": "price_watch",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "7d4c40902989c321982d0dae2ecae6512ad87681018422030ec34c6b8edf8ec2",
+          "source": "play_store",
+          "text": "I have felt quite cheated. Every time I view a product or add it to my wishlist, the price refuses to drop. Frequently, I see prices decrease for every size except the one I actually need. This consistent pattern is making me consider leaving the platform entirely.",
+          "created_at": "2026-05-10T06:35:10Z",
+          "motive": "price_watch",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "7b14c6b58f90e46e9237e1cb6ab7e80f9dd3b22ae9b0ab38c7698b250b4eb74c",
+          "source": "play_store",
+          "text": "good but the price is very high according the product if you want to buy you can take from meesho,flipkart and if you're going to buy they will not give the option add to Cart they will give BAG option it's lot of hassle and they didn't featured direct buy and very high price according other apps don't use its waste",
+          "created_at": "2026-04-24T18:37:16Z",
+          "motive": "price_watch",
+          "journey_stage": "saved_waiting",
+          "external_action": "checked_other_platform",
+          "category": "psychological"
+        },
+        {
+          "record_id": "e54a1edc449078c54f83333ff939d75fe14e7c5da8f4533c32396742afe0f1d7",
+          "source": "play_store",
+          "text": "scamming customer. If I add something in wishlist, and try to buy they suddenly increase there price. this is second time",
+          "created_at": "2026-04-05T15:49:11Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "both"
+        },
+        {
+          "record_id": "982f3c8a978db82113e6610b54c415f3d5daba1fd237ffbfa2b6c1f9c469fd0d",
+          "source": "play_store",
+          "text": "i add item on wishlist it shows a lower price and when I try to purchase it shows more.",
+          "created_at": "2026-04-04T17:05:06Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "both"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "blocker_type": "serviceability",
+      "prevalence": {
+        "overall_count": 132,
+        "overall_denominator": 384,
+        "overall_percentage": 34.38,
+        "by_source": {
+          "interview": {
+            "count": 0,
+            "denominator": 4,
+            "percentage": 0.0
+          },
+          "play_store": {
+            "count": 126,
+            "denominator": 296,
+            "percentage": 42.57
+          },
+          "reddit": {
+            "count": 6,
+            "denominator": 45,
+            "percentage": 13.33
+          },
+          "survey": {
+            "count": 0,
+            "denominator": 39,
+            "percentage": 0.0
+          }
+        }
+      },
+      "source_weighting": {
+        "weighted_rate": 0.6257,
+        "weighted_points": 135.0,
+        "applied_weights": {
+          "interview": 4.0,
+          "survey": 3.0,
+          "reddit": 1.5,
+          "play_store": 1.0
+        }
+      },
+      "elasticity": null,
+      "ownership": {
+        "owner": "ops",
+        "rationale": "Logistics, courier partner coverage, warehouse routing"
+      },
+      "evidence_count": 132,
+      "evidence_samples": [
+        {
+          "record_id": "3e2891df393214e4062bcb66c34a1bf59174ae797f08dc10abde084bb1af4e6e",
+          "source": "play_store",
+          "text": "My experience with Myntra has been consistently disappointing. Their customer service is extremely poor, and they seem unwilling to help when issues arise. The biggest problem is with their delivery agents. On multiple occasions, my orders were canceled without my permission or any valid explanation. It feels unprofessional and unfair, especially when I was waiting for the delivery. I've had bad experiences with Myntra repeatedly, and the lack of accountability has made me lose trust.",
+          "created_at": "2026-06-29T23:23:12Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "8cac2e7579e93a1cb589b1f5e1661ad2c97e6f2ad4adaeade62cebce89602cf9",
+          "source": "play_store",
+          "text": "Pathetic Experience, Waiting for return Pickup since ages. Seems RaGa will become PM before pickup happens. You've changed your logo Please change your process also",
+          "created_at": "2026-06-25T23:51:25Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "1e776b24d426084ac67c6f4ff7188a04bfd871b8c9ed25d99fb4630963debaa7",
+          "source": "play_store",
+          "text": "These pathetic people just don't deliver my shoes, i was waiting since months for the sale and all i hear after order is they can't deliver or unforeseen circumstances have caused the order to cancel! I tried to send the mail but it's queued and couldn't be sent to appfeedback@myntra got nothing from ccmanager@myntra",
+          "created_at": "2026-06-24T15:12:50Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "8e93bc2613d7bc86e32c29ae64d2d00aa4941b77a241a80b78284d2ca0ff56a9",
+          "source": "play_store",
+          "text": "Myntra has completely lost my trust. My 6 orders were cancelled one by one over several days due to a pincode issue, even after the shipments had reached my town. I had ordered them for my upcoming flight, and the last-minute cancellations caused a lot of inconvenience. As an Insider customer, I expected better reliability. Because of this experience, Myntra has lost a customer permanently.",
+          "created_at": "2026-06-23T20:53:52Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "018309273f945cfc3635081454acc13bad1e658fe573a69af1f86ed3bce92783",
+          "source": "play_store",
+          "text": "I am deeply disappointed with the recent delivery experience. After keeping me waiting for over two weeks following nominal delivery attempts, my orders were abruptly cancelled without any notification. This lack of communication and irresponsible handling is completely unacceptable. As a result, I will no longer be shopping with Myntra and will actively advise my family and friends against using your platform. Please ensure this feedback is escalated to management. Good bye",
+          "created_at": "2026-06-23T11:22:54Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "f851f67e6766dbad0b93eda50670a71933c5f47ced12844253c62f34c849d4c3",
+          "source": "play_store",
+          "text": "Worst replacement policy, if you cant provide replacement at specific code then dont deliver items on that Pin code, You only want to sell item 0 for your service. Going to uninstall this useless app.",
+          "created_at": "2026-06-21T14:06:45Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "3f6b5b428b67d72afe3ae363dea223b84476aef29bf36e44fdf4b46850be155a",
+          "source": "play_store",
+          "text": "I have been shopping on Myntra⁠� for the past 8 years. Earlier, delivery was available on our pincode, but for the last 3 years, Myntra has stopped delivering to our area. The strange part is that other platforms like FirstCry⁠�, AJIO⁠�, Pantaloons⁠�, Amazon India⁠�, Nykaa⁠�, and Tata CLiQ⁠� are all delivering successfully to the same pincode. I would really like to know why Myntra delivery is unavailable in our area despite other major platforms providing service without any issue.",
+          "created_at": "2026-06-21T12:11:11Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "6eafdb653604d90ed13946a301d7d3a76b6be94ad53346012229bcaa7190617f",
+          "source": "play_store",
+          "text": "Worst Experience. Not able order anything because it's showing \"Not deliverable to selected Pincode\" Even for central Bangalore. This is so weird in online shopping not deliverable to any Karnataka pincode, then why is this app necessary?",
+          "created_at": "2026-06-20T17:13:04Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "blocker_type": "decision_paralysis",
+      "prevalence": {
+        "overall_count": 7,
+        "overall_denominator": 384,
+        "overall_percentage": 1.82,
+        "by_source": {
+          "interview": {
+            "count": 0,
+            "denominator": 4,
+            "percentage": 0.0
+          },
+          "play_store": {
+            "count": 0,
+            "denominator": 296,
+            "percentage": 0.0
+          },
+          "reddit": {
+            "count": 0,
+            "denominator": 45,
+            "percentage": 0.0
+          },
+          "survey": {
+            "count": 7,
+            "denominator": 39,
+            "percentage": 17.95
+          }
+        }
+      },
+      "source_weighting": {
+        "weighted_rate": 0.5385,
+        "weighted_points": 21.0,
+        "applied_weights": {
+          "interview": 4.0,
+          "survey": 3.0,
+          "reddit": 1.5,
+          "play_store": 1.0
+        }
+      },
+      "elasticity": {
+        "fraction": "4/7",
+        "rate": 0.5714,
+        "percentage": 57.14,
+        "numerator": 4,
+        "denominator": 7,
+        "sample_flag": "adequate",
+        "answer_breakdown": {
+          "Keep it saved and think about it": 3,
+          "Buy it within a few weeks": 4
+        }
+      },
+      "ownership": {
+        "owner": "product",
+        "rationale": "Side-by-side comparison tools, curated decision aids"
+      },
+      "evidence_count": 7,
+      "evidence_samples": [
+        {
+          "record_id": "9e9793dd76f6aa5314d1707ac48086b11dd1fb10ae20d65aae08f0ae5c10e4fd",
+          "source": "survey",
+          "text": "Main reason in wishlist: I don't go back and look at it\nWhy saved instead of bought: I wanted it, just not that exact moment\nStatus since saving: I bought something similar somewhere else\nBiggest purchase blocker: I can't decide between this and something else\nHelpful resolution: Reviews and photos from people who actually bought it\nAction if resolved: Buy it within a few weeks\nWhy lost interest: I stopped liking the style\nFit confidence rating: 2.0\nQuality confidence rating: 2.0",
+          "created_at": "2026-08-24T20:40:43.963000",
+          "motive": "comparison_shortlist",
+          "journey_stage": "abandoned",
+          "external_action": "bought_elsewhere",
+          "category": "psychological"
+        },
+        {
+          "record_id": "78fa2aa5f5b9eb44438f2e8a2103962f2742278db119417a65a17751d3ea18d2",
+          "source": "survey",
+          "text": "Main reason in wishlist: The things I save are usually more than I want to spend\nWhy saved instead of bought: I wanted it, just not that exact moment\nStatus since saving: I still want it\nBiggest purchase blocker: I can't decide between this and something else\nHelpful resolution: A size guide with real measurements\nAction if resolved: Buy it within a few weeks\nWhy lost interest: I found something better\nFit confidence rating: 4.0\nQuality confidence rating: 4.0",
+          "created_at": "2026-08-25T10:53:14.699000",
+          "motive": "budget_timing",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "52699c75de937fed39ab70284a9cbf6d4fd8e1b662b83aecab06dc5aacea2760",
+          "source": "survey",
+          "text": "Main reason in wishlist: I forget what I've even saved in there\nWhy saved instead of bought: I was still comparing it with other options\nStatus since saving: I still want it\nBiggest purchase blocker: I can't decide between this and something else\nHelpful resolution: Reviews and photos from people who actually bought it\nAction if resolved: Buy it within a few weeks\nWhy lost interest: I found something better\nFit confidence rating: 5.0\nQuality confidence rating: 4.0",
+          "created_at": "2026-08-29T22:11:11.800000",
+          "motive": "comparison_shortlist",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "084eb7c7834052f5cea2f234e513af43538741dac8e0229430e6edecfe8a0f05",
+          "source": "survey",
+          "text": "Main reason in wishlist: The things I save are usually more than I want to spend\nWhy saved instead of bought: I was still comparing it with other options\nStatus since saving: I bought something similar somewhere else\nBiggest purchase blocker: I can't decide between this and something else\nHelpful resolution: Reviews and photos from people who actually bought it\nAction if resolved: Keep it saved and think about it\nWhy lost interest: I stopped liking the style\nFit confidence rating: 3.0\nQuality confidence rating: 3.0",
+          "created_at": "2026-08-30T22:07:56.301000",
+          "motive": "comparison_shortlist",
+          "journey_stage": "abandoned",
+          "external_action": "bought_elsewhere",
+          "category": "psychological"
+        },
+        {
+          "record_id": "a053775766eaf2dd9b7a197cdd2673bdc5ed7be63c5b3fee99189df37339a4f6",
+          "source": "survey",
+          "text": "Main reason in wishlist: I forget what I've even saved in there\nWhy saved instead of bought: I liked the look of it, but wasn't really planning to buy\nStatus since saving: I've gone off it completely\nBiggest purchase blocker: I can't decide between this and something else\nHelpful resolution: Reviews and photos from people who actually bought it\nAction if resolved: Keep it saved and think about it\nWhy lost interest: I found something better\nFit confidence rating: 2.0\nQuality confidence rating: 1.0",
+          "created_at": "2026-09-01T04:11:06.700000",
+          "motive": "aspirational",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "7a25629b8d396bac9cd02600f1ca36bff19706237e2ce2e3bc322278ddb99f1c",
+          "source": "survey",
+          "text": "Main reason in wishlist: I forget what I've even saved in there\nWhy saved instead of bought: I wanted it, just not that exact moment\nStatus since saving: I still want it\nBiggest purchase blocker: I can't decide between this and something else\nHelpful resolution: Reviews and photos from people who actually bought it\nAction if resolved: Buy it within a few weeks\nWhy lost interest: I waited so long the moment passed\nFit confidence rating: 3.0\nQuality confidence rating: 5.0",
+          "created_at": "2026-09-01T19:55:18.606000",
+          "motive": "unclear",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "1319aa875ef81589def385d0c539617de9d189a617a0f2f81e9ea65362f4579f",
+          "source": "survey",
+          "text": "Main reason in wishlist: I use it more as a collection of things I like than a shopping list\nWhy saved instead of bought: I was still comparing it with other options\nStatus since saving: I bought something similar somewhere else\nBiggest purchase blocker: I can't decide between this and something else\nHelpful resolution: Reviews and photos from people who actually bought it\nAction if resolved: Keep it saved and think about it\nWhy lost interest: I found something better\nFit confidence rating: 5.0\nQuality confidence rating: 4.0",
+          "created_at": "2026-09-01T21:07:37.827000",
+          "motive": "aspirational",
+          "journey_stage": "abandoned",
+          "external_action": "bought_elsewhere",
+          "category": "psychological"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "blocker_type": "size_unavailable",
+      "prevalence": {
+        "overall_count": 14,
+        "overall_denominator": 384,
+        "overall_percentage": 3.65,
+        "by_source": {
+          "interview": {
+            "count": 0,
+            "denominator": 4,
+            "percentage": 0.0
+          },
+          "play_store": {
+            "count": 9,
+            "denominator": 296,
+            "percentage": 3.04
+          },
+          "reddit": {
+            "count": 0,
+            "denominator": 45,
+            "percentage": 0.0
+          },
+          "survey": {
+            "count": 5,
+            "denominator": 39,
+            "percentage": 12.82
+          }
+        }
+      },
+      "source_weighting": {
+        "weighted_rate": 0.415,
+        "weighted_points": 24.0,
+        "applied_weights": {
+          "interview": 4.0,
+          "survey": 3.0,
+          "reddit": 1.5,
+          "play_store": 1.0
+        }
+      },
+      "elasticity": {
+        "fraction": "3/5",
+        "rate": 0.6,
+        "percentage": 60.0,
+        "numerator": 3,
+        "denominator": 5,
+        "sample_flag": "adequate",
+        "answer_breakdown": {
+          "Keep it saved and think about it": 1,
+          "Buy it within a few weeks": 2,
+          "Still wouldn't buy it": 1,
+          "Buy it straight away": 1
+        }
+      },
+      "ownership": {
+        "owner": "shared",
+        "rationale": "Product can notify upon restock; inventory/buying must replenish"
+      },
+      "evidence_count": 14,
+      "evidence_samples": [
+        {
+          "record_id": "9625d2e42689e9f446687b0aafe0f0ecc03a73292ec976913298f86fd4131c05",
+          "source": "play_store",
+          "text": "Don't buy Non-Returnable Items! They have updated their policy, and are not allowing return of some categories of apparel like Suits and Blazzers. Problem is, if you don't like the size and the desired size is not available on exchange, then you are stuck with the item. They won't allow any resolution like return or even exchange for different products, which is a shame! The support is pretty useless to say the least.",
+          "created_at": "2026-06-27T14:51:50Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "3a5c9c0e8fa6525d93144543ddc1e2341262962a983b1dca29cd704466c29cb7",
+          "source": "play_store",
+          "text": "seriously one of the worst customer services. worst app. i got the wrong size product, when i complained they told to wait for a particular date and after that date they contacted again and said wait for 2-3 business days. but till now the issue hasn't been resolved. i emailed them many times also but still they r unable to resolve the issue. plus the replacement size is not available from the past many days!!!!",
+          "created_at": "2026-06-12T00:08:14Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "00de2a31e8afd093fa745a02df74c780255d5fd4e6e655ec778379792c49413e",
+          "source": "play_store",
+          "text": "getting worse, don't use this app, they betrayed the customer, every product u order with \"\"return or exchange \"\" after purchase they show \"\"u can't exchange, size not available, Even it's available when u notice same dress with different size is available for newly purchase, 2ndly they showing \"\"single product not be exchangeble\"\" when we use return option they cut out 50-70 rupees extra",
+          "created_at": "2026-05-08T02:47:40Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "47770b459dab41640c866c37de4fd4024aa3bf85493b65572095b27d2b724cfd",
+          "source": "play_store",
+          "text": "App is good overall experience is good till now. But only problem I have is I never got my size it's always unavailable or out of stock please make sure all size should available.",
+          "created_at": "2026-04-08T13:25:44Z",
+          "motive": "unclear",
+          "journey_stage": "unclear",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "49915d3937286b06014751095831ef45170db097521b852c69149c25e9d4a9c5",
+          "source": "play_store",
+          "text": "very good quality but size 3xl look like 2xl and it's very small and tight. so returned due to next size not available",
+          "created_at": "2026-03-25T15:17:35Z",
+          "motive": "fit_uncertainty",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "both"
+        },
+        {
+          "record_id": "715e1e0a5a9694aa3490d3512f2d54e410609d7bd2c1b6e29e9fe29586c14545",
+          "source": "play_store",
+          "text": "Quality is good but support and service is poor. They take a platform fee of Rs 23 and didn't return that when the product is defective and same product and size is not available for exchange.",
+          "created_at": "2026-03-06T17:23:40Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "both"
+        },
+        {
+          "record_id": "a18ab9ab4549b675b443433a5f49fd49ee9695f7c2bf9f3be13e0e0c09c17ddc",
+          "source": "play_store",
+          "text": "why the products showing available if they are not available in my location. and if the product is not deliverable at my location then show it as available. you guys are using data to make sure my size is not available or i have to pay extra for my size, although i have very common M size.",
+          "created_at": "2026-02-04T21:44:50Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "both"
+        },
+        {
+          "record_id": "1881430e6a4dcff55d5f889dbee3ad26360a3695beaac64db73f18787c677d06",
+          "source": "play_store",
+          "text": "Purchased a sweatshirt with replacement option M size. but the product size is too large and I want to replace it with S size. S size is not available in the app and the customer care is not responding properly on what is to be done. Keeping on disconnecting the call after I explain the concern. sent email and no response at all!!",
+          "created_at": "2026-02-02T23:06:03Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "structural"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "blocker_type": "fit_doubt",
+      "prevalence": {
+        "overall_count": 7,
+        "overall_denominator": 384,
+        "overall_percentage": 1.82,
+        "by_source": {
+          "interview": {
+            "count": 0,
+            "denominator": 4,
+            "percentage": 0.0
+          },
+          "play_store": {
+            "count": 3,
+            "denominator": 296,
+            "percentage": 1.01
+          },
+          "reddit": {
+            "count": 0,
+            "denominator": 45,
+            "percentage": 0.0
+          },
+          "survey": {
+            "count": 4,
+            "denominator": 39,
+            "percentage": 10.26
+          }
+        }
+      },
+      "source_weighting": {
+        "weighted_rate": 0.3178,
+        "weighted_points": 15.0,
+        "applied_weights": {
+          "interview": 4.0,
+          "survey": 3.0,
+          "reddit": 1.5,
+          "play_store": 1.0
+        }
+      },
+      "elasticity": {
+        "fraction": "0/3",
+        "rate": 0.0,
+        "percentage": 0.0,
+        "numerator": 0,
+        "denominator": 3,
+        "sample_flag": "small_sample",
+        "answer_breakdown": {
+          "Keep it saved and think about it": 1,
+          "Still wouldn't buy it": 2
+        }
+      },
+      "ownership": {
+        "owner": "product",
+        "rationale": "Size guidance, past-order sizing comparison, fit predictor"
+      },
+      "evidence_count": 7,
+      "evidence_samples": [
+        {
+          "record_id": "bdbc60033854f4a351987c446add76c6fb58e5a722793e4e538e6174755ef15b",
+          "source": "play_store",
+          "text": "Updating my review after a poor experience with Myntra (earlier rated 5⭐). Ordered a Manyavar kurta (size L) for a friend based on the size chart, but the fit doesn’t match the given measurements. Exchange is allowed, but XL is out of stock. Support only asks to wait, which isn’t practical. No return option despite incorrect sizing. Please resolve this.",
+          "created_at": "2026-05-06T00:37:30Z",
+          "motive": "gifting",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "both"
+        },
+        {
+          "record_id": "b74096f56965dc1964e7bcb91062fc2009f37b979109d17d96acfc3632d5fb3d",
+          "source": "play_store",
+          "text": "most of the size charts aren't accurate, very late delivery, even though my product is just 3km from the hub it has arrived, I've to wait for 4 days to receive it by express delivery, bad customer service support",
+          "created_at": "2026-04-11T11:11:05Z",
+          "motive": "fit_uncertainty",
+          "journey_stage": "unclear",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "16245508e7759e688e782547634731b6c2696deacc20b9f198de3db0f6b93b0e",
+          "source": "play_store",
+          "text": "I I am very disappointed with this order. The size chart is confusing and the correct size is not available. On top of that, there is no exchange or return option, which is unacceptable. This creates unnecessary stress for customers. I expected much better servic",
+          "created_at": "2026-01-17T14:25:04Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "both"
+        },
+        {
+          "record_id": "d5156017e755e4739569e4566089446bff83271e6ee47ea6e68aa6b2fc34d239",
+          "source": "survey",
+          "text": "Main reason in wishlist: I don't go back and look at it\nWhy saved instead of bought: I wanted it, just not that exact moment\nStatus since saving: I still want it\nBiggest purchase blocker: I'm waiting for the price to drop\nHelpful resolution: A size guide with real measurements\nAction if resolved: Buy it straight away\nWhy lost interest: I found something better\nFit confidence rating: 4.0\nQuality confidence rating: 4.0",
+          "created_at": "2026-08-24T21:21:23.161000",
+          "motive": "fit_uncertainty",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "7f07f0c685bdf7455c246e67242fe6dc31d2a07d2459d6a24b430aea6e153f35",
+          "source": "survey",
+          "text": "Main reason in wishlist: The things I save are usually more than I want to spend\nWhy saved instead of bought: I wanted it, just not that exact moment\nStatus since saving: I keep meaning to look at it and never do\nBiggest purchase blocker: I'm not sure it'll fit me\nHelpful resolution: A size guide with real measurements\nAction if resolved: Still wouldn't buy it\nWhy lost interest: I found something better\nFit confidence rating: 1.0\nQuality confidence rating: 2.0",
+          "created_at": "2026-08-31T17:29:05.881000",
+          "motive": "budget_timing",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "e8e02a2c752a7139fa83d475cdecac1af60ed9902afb6420c1c036fc88d0bfd8",
+          "source": "survey",
+          "text": "Main reason in wishlist: I forget what I've even saved in there\nWhy saved instead of bought: I was waiting for the right occasion or the right budget\nStatus since saving: I keep meaning to look at it and never do\nBiggest purchase blocker: I'm not sure it'll fit me\nHelpful resolution: A size suggested from what I've ordered before\nAction if resolved: Keep it saved and think about it\nWhy lost interest: I stopped liking the style\nFit confidence rating: 4.0\nQuality confidence rating: 3.0",
+          "created_at": "2026-09-01T19:12:23.384000",
+          "motive": "unclear",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        },
+        {
+          "record_id": "794c8d5ce5f7f6acba206a9ccde506d93ef8a1a849f30689eea4e6f58f7b7e5d",
+          "source": "survey",
+          "text": "Main reason in wishlist: I use it more as a collection of things I like than a shopping list\nWhy saved instead of bought: I was still comparing it with other options\nStatus since saving: I keep meaning to look at it and never do\nBiggest purchase blocker: I'm not sure it'll fit me\nHelpful resolution: A size suggested from what I've ordered before\nAction if resolved: Still wouldn't buy it\nWhy lost interest: I found something better\nFit confidence rating: 2.0\nQuality confidence rating: 3.0",
+          "created_at": "2026-09-02T23:29:51.350000",
+          "motive": "aspirational",
+          "journey_stage": "saved_waiting",
+          "external_action": "none",
+          "category": "psychological"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "blocker_type": "out_of_stock",
+      "prevalence": {
+        "overall_count": 49,
+        "overall_denominator": 384,
+        "overall_percentage": 12.76,
+        "by_source": {
+          "interview": {
+            "count": 0,
+            "denominator": 4,
+            "percentage": 0.0
+          },
+          "play_store": {
+            "count": 48,
+            "denominator": 296,
+            "percentage": 16.22
+          },
+          "reddit": {
+            "count": 1,
+            "denominator": 45,
+            "percentage": 2.22
+          },
+          "survey": {
+            "count": 0,
+            "denominator": 39,
+            "percentage": 0.0
+          }
+        }
+      },
+      "source_weighting": {
+        "weighted_rate": 0.1955,
+        "weighted_points": 49.5,
+        "applied_weights": {
+          "interview": 4.0,
+          "survey": 3.0,
+          "reddit": 1.5,
+          "play_store": 1.0
+        }
+      },
+      "elasticity": null,
+      "ownership": {
+        "owner": "shared",
+        "rationale": "Product can notify upon restock or recommend substitutes; inventory must stock"
+      },
+      "evidence_count": 49,
+      "evidence_samples": [
+        {
+          "record_id": "83da0054764e94a243324080315c06ed4f5943c6777e908beee2e27d775e1d3f",
+          "source": "play_store",
+          "text": "I thought myntra will be as good as people says but it's not.. I order one product, my first ever order and it delivered in 23 days later.. I literally forgot that I ordered something.. After getting the product after 23 days the color was wrong of the dress. To chk the exchange, the price is 3 times high and product is Out of Stock.. Wow.. Highly disappointed..",
+          "created_at": "2026-06-21T16:31:37Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "bf67f9206efec9ead8affbfb21b20dd9a3617faf3b24167cfbf77bb66a508e10",
+          "source": "play_store",
+          "text": "Product Ordered will not be delivered at all, they just cancel the products bought during sales, and asks us to reorder simply. Worst Customer Service. They dont have control over the product shown in the platform. The products shows available in Platform, when ordered, Vendor will cancel saying out of stock. Iam Giving up on this Myntra Platform.",
+          "created_at": "2026-06-18T22:23:27Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "fd3acb1e3802c3e12d440093e94584b6bb8ee5880c1235000fd6bfd2458987be",
+          "source": "play_store",
+          "text": "This is a fraud app I had ever seen....these people aquire customer through offers like in the first order they will give 500 off but the first order never get deliver to the customer.....I have ordered my first product and I have been waiting for last 20 days and after so much customer care call and etc etc at last they cancelled my delivery and told me that your product is missing....and you can't get the offer ( 500 off ) agin...This is totally fraud",
+          "created_at": "2026-06-18T15:56:36Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "a2eae9285c94f1d6cea8e845defd313d8c25ced594ea3d16adbdb1c399362965",
+          "source": "play_store",
+          "text": "Now a days this app is worst among all other online shopping app in terms of delivery. All 8 orders of mine cancelled after reaching to the nearest delivery center. I request call now, nobody called me, in chat a lot of waiting time if I get executive they only fool me. I got refund after waiting for so many days. I just want to ask if you get your money back after waiting for so many days and they will provide you a Sorry Coupon of 100 Rs is this justiciable?",
+          "created_at": "2026-06-17T17:43:36Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "a05a7011add6a4b31e1f55c4fbb275d390990fff7d7bf200641f69075623f4af",
+          "source": "play_store",
+          "text": "Very bad experience in myntra, I order shirt which is received in wrong size.I asked for exchange size but the exchange item was never delivered to me. after calling multiple times in myntra, I only get a response that please wait for 24-48 hrs and still I did not get any resolution after 17 days. I still have the original item which I cannot wear. I need someone from myntra to contact me so that the issue get resolved because I have called myntra atleast 6 times in 17 days.",
+          "created_at": "2026-06-15T17:28:20Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "351de4ad47bee347277608ad74e5ed96fc1027f89e7df91a51d37c84379fb9e9",
+          "source": "play_store",
+          "text": "worst shopping experience. I ordered an item 2 times but cancelled for unnecessary reasons. I was waiting for a month at last I ordered from other shopping apps. delivery time is also too long... I never recommend this app for shopping.....",
+          "created_at": "2026-06-15T12:10:16Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "bought_elsewhere",
+          "category": "structural"
+        },
+        {
+          "record_id": "0331c9ad5b170b614881d502fd74a237282359bd1ac15fe5ac2a61637b00dbcd",
+          "source": "play_store",
+          "text": "I received one wrong product and my other two items were completely missing after waiting for like 20 days for the delivery. I have repeatedly contacted the customer care giving them complete details about the incident, they told me to wait for refund for the missing pieces but they are just delaying my issue. It's a constant source of distress.Goes on to show what kind of pointless customer support they have . I'm extremely disappointed and putting up this review as my last ditch effort.",
+          "created_at": "2026-06-14T00:06:44Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "d1cd91c14d0dc24119b0272e16215cd1a5dd85211fd1e5f2adab38471bb80d0b",
+          "source": "play_store",
+          "text": "I am a regular Myntra customer and am disappointed with the delivery experience. This is not the first time my order has been delayed and then cancelled due to an internal issue.My recent order had already reached a nearby hub, yet it was cancelled after making me wait for days. Customer service simply sends a \"sorry\" coupon, but nobody needs a coupon when the same issue keeps recurring. Last minute cancellations after days of waiting are frustrating and a waste of customers' time.",
+          "created_at": "2026-06-13T21:11:46Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "structural"
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "blocker_type": "cod_unavailable",
+      "prevalence": {
+        "overall_count": 12,
+        "overall_denominator": 384,
+        "overall_percentage": 3.12,
+        "by_source": {
+          "interview": {
+            "count": 0,
+            "denominator": 4,
+            "percentage": 0.0
+          },
+          "play_store": {
+            "count": 12,
+            "denominator": 296,
+            "percentage": 4.05
+          },
+          "reddit": {
+            "count": 0,
+            "denominator": 45,
+            "percentage": 0.0
+          },
+          "survey": {
+            "count": 0,
+            "denominator": 39,
+            "percentage": 0.0
+          }
+        }
+      },
+      "source_weighting": {
+        "weighted_rate": 0.0405,
+        "weighted_points": 12.0,
+        "applied_weights": {
+          "interview": 4.0,
+          "survey": 3.0,
+          "reddit": 1.5,
+          "play_store": 1.0
+        }
+      },
+      "elasticity": null,
+      "ownership": {
+        "owner": "ops",
+        "rationale": "Risk rules, payment operations, courier COD enablement"
+      },
+      "evidence_count": 12,
+      "evidence_samples": [
+        {
+          "record_id": "25339a7c67659e1ebd9fc697901aee04be73477cef7f81472b3f6b497d76f536",
+          "source": "play_store",
+          "text": "I'm a Elite member of Myntra but recently faced issue with Myntra's services which very much disappointed me so had to uninstall it. Few days ago I ordered 2 dresses and done payment by UPI but when the percel reached the delivery boy said it's a 'cash on delivery' when I refused to give him money he saw me his phone and there were clearly written that it's a COD products then he cancelled my orders. I contacted myntra service care they told me to wait for 7 days to resolve the issue. Disgusting",
+          "created_at": "2026-06-10T19:19:01Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "b9f9c39229256ed7c10ac3823c52c6495931a658442c3166eae60e8ee9637cb9",
+          "source": "play_store",
+          "text": "when I placing the order cod is not available for my location why ? saying that not given cod in my area why is this my problem or your,what if someone doesn't have online how will he managed to pay ,reply please and help me to cure this irrelevant problem",
+          "created_at": "2026-06-03T21:42:16Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "b165d005ae63546705219f2722e2f33292404b663598ede6bef4ed213d14cef4",
+          "source": "play_store",
+          "text": "I don't like it this app because if you recharge any product they are lock cash on delivery unavailable cash on delivery and they are not see him /her some time delivery not a delivery on time but they are thinking about this is my fault but reality is delivery boy fault not my be careful if you recharge any product myntra team get angry an then they are block cash on delivery very bad 👎 app",
+          "created_at": "2026-04-25T00:45:17Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "9e08ef7143e6ef789e96b94841a0b76d6281b6f1053c22c03dc7e7d083dfaa81",
+          "source": "play_store",
+          "text": "I think they shouldn't charge us for COD when they're already taking platform and delivery charges or else the app is quite ok, though I would love if they can increase the capacity of wishlist inventory. Love this app regardless",
+          "created_at": "2026-04-11T12:34:27Z",
+          "motive": "unclear",
+          "journey_stage": "unclear",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "39134b12793298f228c5c2e77918df2c83f34fca62b6af9fa119ba029bc81f5c",
+          "source": "play_store",
+          "text": "cash on delivery is not available in village area.. degital and improve India means all services provided but this time really bad experience all the time ,all time see not available cash on delivery or no changing product or no delivery change the address 😏",
+          "created_at": "2026-03-15T22:20:11Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "d808586fd65e309ba65279ccbb1385c6f899d7b6b589b6088a02ca0950f5ead8",
+          "source": "play_store",
+          "text": "I have been a regular customer of Myntra. But for the last 5 orders of mine are continuously getting cancelled. My track record is completely clean. The first order I placed was cash on delivery but when the delivery date came it got cancelled in the evening. Then I reordered and made prepayment but it got cancelled on the day of delivery. If there is any issue in delivery to my address then the order should not be accepted. After waiting for so many days it gets cancelled suddenly. This is very",
+          "created_at": "2026-03-09T09:43:38Z",
+          "motive": "unclear",
+          "journey_stage": "returned_blocked",
+          "external_action": "none",
+          "category": "structural"
+        },
+        {
+          "record_id": "7b54870b1f9e48e9c6bf2e7af2ba3360d85d62285c39741db552ff5e31d22dff",
+          "source": "play_store",
+          "text": "They are cancelling my order repeatedly. When I called the customer care they are saying that I have crossed the limit of cod option. And then they are saying upi have 1500 cod option and order limit will be under 1500.what kind of system is this. Ridiculous. Same products are also available in flipkart also. when the price of a Titan raga watch decreased it shows not deliverable in my pincode but when I am searching from my mom's account it shows deliverable. myntra credit is a scam",
+          "created_at": "2026-03-01T00:58:17Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "checked_other_platform",
+          "category": "structural"
+        },
+        {
+          "record_id": "e205f6f2abd260ad8697edd4167982de7055f53c53244e9c5f1d365e5d9e5350",
+          "source": "play_store",
+          "text": "I'm really upset with myntra since they have removed the cash on delivery option for my pincode it's really disappointing. The only way i can pay is on delivery since I don't use online payment. it's makes me upset to miss out on things. please fix it myntra.",
+          "created_at": "2026-02-21T22:49:21Z",
+          "motive": "unclear",
+          "journey_stage": "abandoned",
+          "external_action": "none",
+          "category": "structural"
+        }
+      ],
+      "rank": 11
+    }
+  ]
+}

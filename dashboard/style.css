@@ -1,0 +1,58 @@
+/* ==========================================================================
+   MYNTRA DISCOVERY ENGINE — STITCH EXECUTIVE DESIGN SYSTEM COMPLEMENTS
+   ========================================================================== */
+
+@layer base {
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.03);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.25);
+}
+
+/* View switching animation */
+.main-view-container {
+  animation: fadeInView 0.18s ease-out;
+}
+
+@keyframes fadeInView {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Row Expansion Drawer */
+.evidence-drawer-row {
+  display: none;
+}
+.evidence-drawer-row.active {
+  display: table-row;
+}
+
+/* Preset Chip Active State */
+.rag-preset-chip-btn.active {
+  border-color: #006194 !important;
+  background-color: #eaedff !important;
+  color: #006194 !important;
+  font-weight: 600;
+}

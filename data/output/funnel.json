@@ -1,0 +1,107 @@
+{
+  "stage_01_ingest": {
+    "timestamp": "2026-09-03T15:31:55.765913Z",
+    "counts": {
+      "play_store": 63014,
+      "reddit": 45,
+      "survey": 39,
+      "interview": 4,
+      "total": 63102
+    },
+    "description": "Normalized all three raw corpora into stage_01_ingested.jsonl"
+  },
+  "stage_02_filter": {
+    "timestamp": "2026-09-03T15:32:21.886879Z",
+    "play_store_funnel": {
+      "gate_1_non_empty": {
+        "entering": 63014,
+        "surviving": 63014,
+        "dropped": 0
+      },
+      "gate_2_word_count": {
+        "entering": 63014,
+        "surviving": 12557,
+        "dropped": 50457
+      },
+      "gate_3_wishlist_terms": {
+        "entering": 12557,
+        "surviving": 1591,
+        "dropped": 10966
+      },
+      "gate_4_deliberation_and_blockers": {
+        "entering": 1591,
+        "surviving": 296,
+        "dropped": 1295
+      }
+    },
+    "passthrough": {
+      "reddit": 45,
+      "survey": 39,
+      "interview": 4
+    },
+    "broad_set_totals": {
+      "play_store": 1591,
+      "reddit": 45,
+      "survey": 39,
+      "total": 1679
+    },
+    "narrow_set_totals": {
+      "play_store": 296,
+      "reddit": 45,
+      "survey": 39,
+      "total": 384
+    }
+  },
+  "stage_03_classify": {
+    "timestamp": "2026-09-03T15:32:31.521633Z",
+    "total_records": 384,
+    "validation_summary": {
+      "ok": 384,
+      "quarantined": 0
+    },
+    "model": "openai/gpt-oss-120b",
+    "taxonomy_version": "v1",
+    "elapsed_seconds": 3.51
+  },
+  "stage_04_count": {
+    "timestamp": "2026-09-03T15:33:26.912382Z",
+    "total_records": 384,
+    "denominators": {
+      "play_store": 296,
+      "reddit": 45,
+      "survey": 39,
+      "interview": 4
+    },
+    "structural_total": 199,
+    "psychological_total": 59,
+    "both_total": 18,
+    "none_total": 108
+  },
+  "stage_05_score": {
+    "timestamp": "2026-09-03T15:33:59.649905Z",
+    "ranked_opportunity_count": 11,
+    "top_3_opportunities": [
+      {
+        "rank": 1,
+        "blocker": "quality_doubt",
+        "prevalence": "22/384",
+        "elasticity": "2/8",
+        "owner": "product"
+      },
+      {
+        "rank": 2,
+        "blocker": "budget_constraint",
+        "prevalence": "10/384",
+        "elasticity": "5/7",
+        "owner": "neither"
+      },
+      {
+        "rank": 3,
+        "blocker": "no_reviews",
+        "prevalence": "1/384",
+        "elasticity": "null",
+        "owner": "product"
+      }
+    ]
+  }
+}

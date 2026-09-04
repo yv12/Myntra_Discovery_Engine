@@ -1,0 +1,71 @@
+version: "v1"
+
+dimensions:
+  wishlist_motive:
+    description: "Motive behind saving an item to the wishlist"
+    allowed_values:
+      - price_watch
+      - fit_uncertainty
+      - budget_timing
+      - occasion
+      - aspirational
+      - comparison_shortlist
+      - gifting
+      - unclear
+    default_fallback: unclear
+
+  blocker_type:
+    description: "Specific blocker stopping or stalling the purchase"
+    allowed_values:
+      - price_wait
+      - budget_constraint
+      - quality_doubt
+      - fit_doubt
+      - decision_paralysis
+      - size_unavailable
+      - out_of_stock
+      - serviceability
+      - cod_unavailable
+      - no_reviews
+      - forgot_wishlist
+      - none
+    default_fallback: none
+
+  blocker_category:
+    description: "High-level categorization of the blocker"
+    allowed_values:
+      - structural
+      - psychological
+      - both
+      - none
+    default_fallback: none
+
+  external_action:
+    description: "Actions taken outside the immediate product page"
+    allowed_values:
+      - checked_other_platform
+      - bought_elsewhere
+      - asked_someone
+      - none
+      - unclear
+    default_fallback: unclear
+
+  journey_stage:
+    description: "Current stage in the user's wishlist deliberation journey"
+    allowed_values:
+      - pre_save
+      - saved_waiting
+      - returned_blocked
+      - abandoned
+      - purchased
+      - unclear
+    default_fallback: unclear
+
+survey_blocker_mapping:
+  "I'm waiting for the price to drop": price_wait
+  "I'm not sure the quality will match the photos": quality_doubt
+  "It's more than I want to spend right now": budget_constraint
+  "I can't decide between this and something else": decision_paralysis
+  "My size or the item isn't available": size_unavailable
+  "I'm not sure it'll fit me": fit_doubt
+

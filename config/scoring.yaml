@@ -1,0 +1,13 @@
+# Source weighting configuration for Stage 5 Opportunity Scoring
+# Solves the complaint volume bias: complaint corpora (Play Store) inflate platform failures,
+# while intentional behavior corpora (Interviews, Survey) surface true deliberative trust blockers.
+
+source_weights:
+  interview: 4.0    # In-depth behavioral reflection, highest intentionality (n=4)
+  survey: 3.0       # Structured pre-purchase deliberation & stated elasticity (n=39)
+  reddit: 1.5       # Organic community discussions & edge-case rants (n=45)
+  play_store: 1.0   # Public post-purchase complaint stream (n=296 narrow / 63,014 raw)
+
+description: >
+  Weighted prevalence rate multiplies the intra-source prevalence rate by the source weight,
+  ensuring blockers supported by interviews and survey outrank blockers supported only by complaint volume.

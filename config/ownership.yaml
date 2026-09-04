@@ -1,0 +1,40 @@
+# Blocker-to-PM-ownership static mapping
+# Derived from engine-architecture.md
+
+ownership:
+  price_wait:
+    owner: product
+    rationale: "Alerts, price history graphs, price lock mechanisms"
+  quality_doubt:
+    owner: product
+    rationale: "Buyer reviews, verified photos, customer Q&A, material transparency"
+  fit_doubt:
+    owner: product
+    rationale: "Size guidance, past-order sizing comparison, fit predictor"
+  decision_paralysis:
+    owner: product
+    rationale: "Side-by-side comparison tools, curated decision aids"
+  forgot_wishlist:
+    owner: product
+    rationale: "Reminders, smart resurfacing, contextual nudges"
+  no_reviews:
+    owner: product
+    rationale: "Review seeding, incentives, alternate trust signals"
+  size_unavailable:
+    owner: shared
+    rationale: "Product can notify upon restock; inventory/buying must replenish"
+  out_of_stock:
+    owner: shared
+    rationale: "Product can notify upon restock or recommend substitutes; inventory must stock"
+  serviceability:
+    owner: ops
+    rationale: "Logistics, courier partner coverage, warehouse routing"
+  cod_unavailable:
+    owner: ops
+    rationale: "Risk rules, payment operations, courier COD enablement"
+  budget_constraint:
+    owner: neither
+    rationale: "Outside platform control; user lacks disposable income"
+  none:
+    owner: neither
+    rationale: "No blocker identified"

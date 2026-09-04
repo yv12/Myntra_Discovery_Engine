@@ -1,0 +1,5061 @@
+{
+  "metadata": {
+    "timestamp": "2026-09-03T15:33:26.896066Z",
+    "source_file": "data/stages/stage_03_classified.jsonl",
+    "total_records": 384,
+    "denominators": {
+      "overall": 384,
+      "by_source": {
+        "play_store": 296,
+        "reddit": 45,
+        "survey": 39,
+        "interview": 4
+      }
+    },
+    "description": "Deterministic counts and co-occurrences computed in plain Python. Every count carries its explicit denominator and source breakdown."
+  },
+  "dimension_frequencies": {
+    "wishlist_motive": {
+      "dimension": "wishlist_motive",
+      "denominator": 384,
+      "tags": {
+        "aspirational": {
+          "tag": "aspirational",
+          "overall": {
+            "count": 16,
+            "denominator": 384,
+            "rate": 0.0417,
+            "percentage": 4.17
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "rate": 0.0068,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "rate": 0.0222,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 13,
+              "denominator": 39,
+              "rate": 0.3333,
+              "percentage": 33.33
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "budget_timing": {
+          "tag": "budget_timing",
+          "overall": {
+            "count": 7,
+            "denominator": 384,
+            "rate": 0.0182,
+            "percentage": 1.82
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 6,
+              "denominator": 39,
+              "rate": 0.1538,
+              "percentage": 15.38
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "rate": 0.25,
+              "percentage": 25.0
+            }
+          }
+        },
+        "comparison_shortlist": {
+          "tag": "comparison_shortlist",
+          "overall": {
+            "count": 10,
+            "denominator": 384,
+            "rate": 0.026,
+            "percentage": 2.6
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "rate": 0.0034,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 9,
+              "denominator": 39,
+              "rate": 0.2308,
+              "percentage": 23.08
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "fit_uncertainty": {
+          "tag": "fit_uncertainty",
+          "overall": {
+            "count": 3,
+            "denominator": 384,
+            "rate": 0.0078,
+            "percentage": 0.78
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "rate": 0.0068,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "rate": 0.0256,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "gifting": {
+          "tag": "gifting",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "rate": 0.0026,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "rate": 0.0034,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "occasion": {
+          "tag": "occasion",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "rate": 0.0052,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "rate": 0.0034,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "rate": 0.0256,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "price_watch": {
+          "tag": "price_watch",
+          "overall": {
+            "count": 19,
+            "denominator": 384,
+            "rate": 0.0495,
+            "percentage": 4.95
+          },
+          "by_source": {
+            "play_store": {
+              "count": 13,
+              "denominator": 296,
+              "rate": 0.0439,
+              "percentage": 4.39
+            },
+            "reddit": {
+              "count": 6,
+              "denominator": 45,
+              "rate": 0.1333,
+              "percentage": 13.33
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "unclear": {
+          "tag": "unclear",
+          "overall": {
+            "count": 326,
+            "denominator": 384,
+            "rate": 0.849,
+            "percentage": 84.9
+          },
+          "by_source": {
+            "play_store": {
+              "count": 276,
+              "denominator": 296,
+              "rate": 0.9324,
+              "percentage": 93.24
+            },
+            "reddit": {
+              "count": 38,
+              "denominator": 45,
+              "rate": 0.8444,
+              "percentage": 84.44
+            },
+            "survey": {
+              "count": 9,
+              "denominator": 39,
+              "rate": 0.2308,
+              "percentage": 23.08
+            },
+            "interview": {
+              "count": 3,
+              "denominator": 4,
+              "rate": 0.75,
+              "percentage": 75.0
+            }
+          }
+        }
+      }
+    },
+    "blocker_type": {
+      "dimension": "blocker_type",
+      "denominator": 384,
+      "tags": {
+        "budget_constraint": {
+          "tag": "budget_constraint",
+          "overall": {
+            "count": 10,
+            "denominator": 384,
+            "rate": 0.026,
+            "percentage": 2.6
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 2,
+              "denominator": 45,
+              "rate": 0.0444,
+              "percentage": 4.44
+            },
+            "survey": {
+              "count": 7,
+              "denominator": 39,
+              "rate": 0.1795,
+              "percentage": 17.95
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "rate": 0.25,
+              "percentage": 25.0
+            }
+          }
+        },
+        "cod_unavailable": {
+          "tag": "cod_unavailable",
+          "overall": {
+            "count": 12,
+            "denominator": 384,
+            "rate": 0.0312,
+            "percentage": 3.12
+          },
+          "by_source": {
+            "play_store": {
+              "count": 12,
+              "denominator": 296,
+              "rate": 0.0405,
+              "percentage": 4.05
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "decision_paralysis": {
+          "tag": "decision_paralysis",
+          "overall": {
+            "count": 7,
+            "denominator": 384,
+            "rate": 0.0182,
+            "percentage": 1.82
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 7,
+              "denominator": 39,
+              "rate": 0.1795,
+              "percentage": 17.95
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "fit_doubt": {
+          "tag": "fit_doubt",
+          "overall": {
+            "count": 7,
+            "denominator": 384,
+            "rate": 0.0182,
+            "percentage": 1.82
+          },
+          "by_source": {
+            "play_store": {
+              "count": 3,
+              "denominator": 296,
+              "rate": 0.0101,
+              "percentage": 1.01
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 4,
+              "denominator": 39,
+              "rate": 0.1026,
+              "percentage": 10.26
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "forgot_wishlist": {
+          "tag": "forgot_wishlist",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "rate": 0.0026,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "rate": 0.25,
+              "percentage": 25.0
+            }
+          }
+        },
+        "no_reviews": {
+          "tag": "no_reviews",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "rate": 0.0026,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "rate": 0.25,
+              "percentage": 25.0
+            }
+          }
+        },
+        "none": {
+          "tag": "none",
+          "overall": {
+            "count": 108,
+            "denominator": 384,
+            "rate": 0.2812,
+            "percentage": 28.12
+          },
+          "by_source": {
+            "play_store": {
+              "count": 73,
+              "denominator": 296,
+              "rate": 0.2466,
+              "percentage": 24.66
+            },
+            "reddit": {
+              "count": 34,
+              "denominator": 45,
+              "rate": 0.7556,
+              "percentage": 75.56
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "rate": 0.0256,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "out_of_stock": {
+          "tag": "out_of_stock",
+          "overall": {
+            "count": 49,
+            "denominator": 384,
+            "rate": 0.1276,
+            "percentage": 12.76
+          },
+          "by_source": {
+            "play_store": {
+              "count": 48,
+              "denominator": 296,
+              "rate": 0.1622,
+              "percentage": 16.22
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "rate": 0.0222,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "price_wait": {
+          "tag": "price_wait",
+          "overall": {
+            "count": 21,
+            "denominator": 384,
+            "rate": 0.0547,
+            "percentage": 5.47
+          },
+          "by_source": {
+            "play_store": {
+              "count": 12,
+              "denominator": 296,
+              "rate": 0.0405,
+              "percentage": 4.05
+            },
+            "reddit": {
+              "count": 2,
+              "denominator": 45,
+              "rate": 0.0444,
+              "percentage": 4.44
+            },
+            "survey": {
+              "count": 7,
+              "denominator": 39,
+              "rate": 0.1795,
+              "percentage": 17.95
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "quality_doubt": {
+          "tag": "quality_doubt",
+          "overall": {
+            "count": 22,
+            "denominator": 384,
+            "rate": 0.0573,
+            "percentage": 5.73
+          },
+          "by_source": {
+            "play_store": {
+              "count": 13,
+              "denominator": 296,
+              "rate": 0.0439,
+              "percentage": 4.39
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 8,
+              "denominator": 39,
+              "rate": 0.2051,
+              "percentage": 20.51
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "rate": 0.25,
+              "percentage": 25.0
+            }
+          }
+        },
+        "serviceability": {
+          "tag": "serviceability",
+          "overall": {
+            "count": 132,
+            "denominator": 384,
+            "rate": 0.3438,
+            "percentage": 34.38
+          },
+          "by_source": {
+            "play_store": {
+              "count": 126,
+              "denominator": 296,
+              "rate": 0.4257,
+              "percentage": 42.57
+            },
+            "reddit": {
+              "count": 6,
+              "denominator": 45,
+              "rate": 0.1333,
+              "percentage": 13.33
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "size_unavailable": {
+          "tag": "size_unavailable",
+          "overall": {
+            "count": 14,
+            "denominator": 384,
+            "rate": 0.0365,
+            "percentage": 3.65
+          },
+          "by_source": {
+            "play_store": {
+              "count": 9,
+              "denominator": 296,
+              "rate": 0.0304,
+              "percentage": 3.04
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 5,
+              "denominator": 39,
+              "rate": 0.1282,
+              "percentage": 12.82
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        }
+      }
+    },
+    "blocker_category": {
+      "dimension": "blocker_category",
+      "denominator": 384,
+      "tags": {
+        "both": {
+          "tag": "both",
+          "overall": {
+            "count": 18,
+            "denominator": 384,
+            "rate": 0.0469,
+            "percentage": 4.69
+          },
+          "by_source": {
+            "play_store": {
+              "count": 17,
+              "denominator": 296,
+              "rate": 0.0574,
+              "percentage": 5.74
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "rate": 0.0222,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "none": {
+          "tag": "none",
+          "overall": {
+            "count": 108,
+            "denominator": 384,
+            "rate": 0.2812,
+            "percentage": 28.12
+          },
+          "by_source": {
+            "play_store": {
+              "count": 73,
+              "denominator": 296,
+              "rate": 0.2466,
+              "percentage": 24.66
+            },
+            "reddit": {
+              "count": 34,
+              "denominator": 45,
+              "rate": 0.7556,
+              "percentage": 75.56
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "rate": 0.0256,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "psychological": {
+          "tag": "psychological",
+          "overall": {
+            "count": 59,
+            "denominator": 384,
+            "rate": 0.1536,
+            "percentage": 15.36
+          },
+          "by_source": {
+            "play_store": {
+              "count": 18,
+              "denominator": 296,
+              "rate": 0.0608,
+              "percentage": 6.08
+            },
+            "reddit": {
+              "count": 4,
+              "denominator": 45,
+              "rate": 0.0889,
+              "percentage": 8.89
+            },
+            "survey": {
+              "count": 33,
+              "denominator": 39,
+              "rate": 0.8462,
+              "percentage": 84.62
+            },
+            "interview": {
+              "count": 4,
+              "denominator": 4,
+              "rate": 1.0,
+              "percentage": 100.0
+            }
+          }
+        },
+        "structural": {
+          "tag": "structural",
+          "overall": {
+            "count": 199,
+            "denominator": 384,
+            "rate": 0.5182,
+            "percentage": 51.82
+          },
+          "by_source": {
+            "play_store": {
+              "count": 188,
+              "denominator": 296,
+              "rate": 0.6351,
+              "percentage": 63.51
+            },
+            "reddit": {
+              "count": 6,
+              "denominator": 45,
+              "rate": 0.1333,
+              "percentage": 13.33
+            },
+            "survey": {
+              "count": 5,
+              "denominator": 39,
+              "rate": 0.1282,
+              "percentage": 12.82
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        }
+      }
+    },
+    "external_action": {
+      "dimension": "external_action",
+      "denominator": 384,
+      "tags": {
+        "asked_someone": {
+          "tag": "asked_someone",
+          "overall": {
+            "count": 0,
+            "denominator": 384,
+            "rate": 0.0,
+            "percentage": 0.0
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "bought_elsewhere": {
+          "tag": "bought_elsewhere",
+          "overall": {
+            "count": 7,
+            "denominator": 384,
+            "rate": 0.0182,
+            "percentage": 1.82
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "rate": 0.0068,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "rate": 0.0222,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 4,
+              "denominator": 39,
+              "rate": 0.1026,
+              "percentage": 10.26
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "checked_other_platform": {
+          "tag": "checked_other_platform",
+          "overall": {
+            "count": 10,
+            "denominator": 384,
+            "rate": 0.026,
+            "percentage": 2.6
+          },
+          "by_source": {
+            "play_store": {
+              "count": 9,
+              "denominator": 296,
+              "rate": 0.0304,
+              "percentage": 3.04
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "rate": 0.0222,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "none": {
+          "tag": "none",
+          "overall": {
+            "count": 367,
+            "denominator": 384,
+            "rate": 0.9557,
+            "percentage": 95.57
+          },
+          "by_source": {
+            "play_store": {
+              "count": 285,
+              "denominator": 296,
+              "rate": 0.9628,
+              "percentage": 96.28
+            },
+            "reddit": {
+              "count": 43,
+              "denominator": 45,
+              "rate": 0.9556,
+              "percentage": 95.56
+            },
+            "survey": {
+              "count": 35,
+              "denominator": 39,
+              "rate": 0.8974,
+              "percentage": 89.74
+            },
+            "interview": {
+              "count": 4,
+              "denominator": 4,
+              "rate": 1.0,
+              "percentage": 100.0
+            }
+          }
+        },
+        "unclear": {
+          "tag": "unclear",
+          "overall": {
+            "count": 0,
+            "denominator": 384,
+            "rate": 0.0,
+            "percentage": 0.0
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        }
+      }
+    },
+    "journey_stage": {
+      "dimension": "journey_stage",
+      "denominator": 384,
+      "tags": {
+        "abandoned": {
+          "tag": "abandoned",
+          "overall": {
+            "count": 99,
+            "denominator": 384,
+            "rate": 0.2578,
+            "percentage": 25.78
+          },
+          "by_source": {
+            "play_store": {
+              "count": 86,
+              "denominator": 296,
+              "rate": 0.2905,
+              "percentage": 29.05
+            },
+            "reddit": {
+              "count": 3,
+              "denominator": 45,
+              "rate": 0.0667,
+              "percentage": 6.67
+            },
+            "survey": {
+              "count": 10,
+              "denominator": 39,
+              "rate": 0.2564,
+              "percentage": 25.64
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "pre_save": {
+          "tag": "pre_save",
+          "overall": {
+            "count": 30,
+            "denominator": 384,
+            "rate": 0.0781,
+            "percentage": 7.81
+          },
+          "by_source": {
+            "play_store": {
+              "count": 22,
+              "denominator": 296,
+              "rate": 0.0743,
+              "percentage": 7.43
+            },
+            "reddit": {
+              "count": 7,
+              "denominator": 45,
+              "rate": 0.1556,
+              "percentage": 15.56
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "rate": 0.25,
+              "percentage": 25.0
+            }
+          }
+        },
+        "purchased": {
+          "tag": "purchased",
+          "overall": {
+            "count": 9,
+            "denominator": 384,
+            "rate": 0.0234,
+            "percentage": 2.34
+          },
+          "by_source": {
+            "play_store": {
+              "count": 9,
+              "denominator": 296,
+              "rate": 0.0304,
+              "percentage": 3.04
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "returned_blocked": {
+          "tag": "returned_blocked",
+          "overall": {
+            "count": 113,
+            "denominator": 384,
+            "rate": 0.2943,
+            "percentage": 29.43
+          },
+          "by_source": {
+            "play_store": {
+              "count": 112,
+              "denominator": 296,
+              "rate": 0.3784,
+              "percentage": 37.84
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "rate": 0.0222,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        },
+        "saved_waiting": {
+          "tag": "saved_waiting",
+          "overall": {
+            "count": 70,
+            "denominator": 384,
+            "rate": 0.1823,
+            "percentage": 18.23
+          },
+          "by_source": {
+            "play_store": {
+              "count": 30,
+              "denominator": 296,
+              "rate": 0.1014,
+              "percentage": 10.14
+            },
+            "reddit": {
+              "count": 8,
+              "denominator": 45,
+              "rate": 0.1778,
+              "percentage": 17.78
+            },
+            "survey": {
+              "count": 29,
+              "denominator": 39,
+              "rate": 0.7436,
+              "percentage": 74.36
+            },
+            "interview": {
+              "count": 3,
+              "denominator": 4,
+              "rate": 0.75,
+              "percentage": 75.0
+            }
+          }
+        },
+        "unclear": {
+          "tag": "unclear",
+          "overall": {
+            "count": 63,
+            "denominator": 384,
+            "rate": 0.1641,
+            "percentage": 16.41
+          },
+          "by_source": {
+            "play_store": {
+              "count": 37,
+              "denominator": 296,
+              "rate": 0.125,
+              "percentage": 12.5
+            },
+            "reddit": {
+              "count": 26,
+              "denominator": 45,
+              "rate": 0.5778,
+              "percentage": 57.78
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "rate": 0.0,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "rate": 0.0,
+              "percentage": 0.0
+            }
+          }
+        }
+      }
+    }
+  },
+  "category_totals": {
+    "structural": {
+      "category": "structural",
+      "overall": {
+        "count": 199,
+        "denominator": 384,
+        "percentage": 51.82
+      },
+      "by_source": {
+        "play_store": {
+          "count": 188,
+          "denominator": 296,
+          "percentage": 63.51
+        },
+        "reddit": {
+          "count": 6,
+          "denominator": 45,
+          "percentage": 13.33
+        },
+        "survey": {
+          "count": 5,
+          "denominator": 39,
+          "percentage": 12.82
+        },
+        "interview": {
+          "count": 0,
+          "denominator": 4,
+          "percentage": 0.0
+        }
+      }
+    },
+    "psychological": {
+      "category": "psychological",
+      "overall": {
+        "count": 59,
+        "denominator": 384,
+        "percentage": 15.36
+      },
+      "by_source": {
+        "play_store": {
+          "count": 18,
+          "denominator": 296,
+          "percentage": 6.08
+        },
+        "reddit": {
+          "count": 4,
+          "denominator": 45,
+          "percentage": 8.89
+        },
+        "survey": {
+          "count": 33,
+          "denominator": 39,
+          "percentage": 84.62
+        },
+        "interview": {
+          "count": 4,
+          "denominator": 4,
+          "percentage": 100.0
+        }
+      }
+    },
+    "both": {
+      "category": "both",
+      "overall": {
+        "count": 18,
+        "denominator": 384,
+        "percentage": 4.69
+      },
+      "by_source": {
+        "play_store": {
+          "count": 17,
+          "denominator": 296,
+          "percentage": 5.74
+        },
+        "reddit": {
+          "count": 1,
+          "denominator": 45,
+          "percentage": 2.22
+        },
+        "survey": {
+          "count": 0,
+          "denominator": 39,
+          "percentage": 0.0
+        },
+        "interview": {
+          "count": 0,
+          "denominator": 4,
+          "percentage": 0.0
+        }
+      }
+    },
+    "none": {
+      "category": "none",
+      "overall": {
+        "count": 108,
+        "denominator": 384,
+        "percentage": 28.12
+      },
+      "by_source": {
+        "play_store": {
+          "count": 73,
+          "denominator": 296,
+          "percentage": 24.66
+        },
+        "reddit": {
+          "count": 34,
+          "denominator": 45,
+          "percentage": 75.56
+        },
+        "survey": {
+          "count": 1,
+          "denominator": 39,
+          "percentage": 2.56
+        },
+        "interview": {
+          "count": 0,
+          "denominator": 4,
+          "percentage": 0.0
+        }
+      }
+    }
+  },
+  "co_occurrences": {
+    "blocker_type__x__blocker_category": {
+      "dimensions": [
+        "blocker_type",
+        "blocker_category"
+      ],
+      "total_pairs_evaluated": 384,
+      "pairs": [
+        {
+          "blocker_type": "serviceability",
+          "blocker_category": "structural",
+          "overall": {
+            "count": 130,
+            "denominator": 384,
+            "percentage": 33.85
+          },
+          "by_source": {
+            "play_store": {
+              "count": 124,
+              "denominator": 296,
+              "percentage": 41.89
+            },
+            "reddit": {
+              "count": 6,
+              "denominator": 45,
+              "percentage": 13.33
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "none",
+          "blocker_category": "none",
+          "overall": {
+            "count": 108,
+            "denominator": 384,
+            "percentage": 28.12
+          },
+          "by_source": {
+            "play_store": {
+              "count": 73,
+              "denominator": 296,
+              "percentage": 24.66
+            },
+            "reddit": {
+              "count": 34,
+              "denominator": 45,
+              "percentage": 75.56
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "out_of_stock",
+          "blocker_category": "structural",
+          "overall": {
+            "count": 46,
+            "denominator": 384,
+            "percentage": 11.98
+          },
+          "by_source": {
+            "play_store": {
+              "count": 46,
+              "denominator": 296,
+              "percentage": 15.54
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "price_wait",
+          "blocker_category": "psychological",
+          "overall": {
+            "count": 19,
+            "denominator": 384,
+            "percentage": 4.95
+          },
+          "by_source": {
+            "play_store": {
+              "count": 10,
+              "denominator": 296,
+              "percentage": 3.38
+            },
+            "reddit": {
+              "count": 2,
+              "denominator": 45,
+              "percentage": 4.44
+            },
+            "survey": {
+              "count": 7,
+              "denominator": 39,
+              "percentage": 17.95
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "quality_doubt",
+          "blocker_category": "psychological",
+          "overall": {
+            "count": 16,
+            "denominator": 384,
+            "percentage": 4.17
+          },
+          "by_source": {
+            "play_store": {
+              "count": 7,
+              "denominator": 296,
+              "percentage": 2.36
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 8,
+              "denominator": 39,
+              "percentage": 20.51
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        },
+        {
+          "blocker_type": "cod_unavailable",
+          "blocker_category": "structural",
+          "overall": {
+            "count": 12,
+            "denominator": 384,
+            "percentage": 3.12
+          },
+          "by_source": {
+            "play_store": {
+              "count": 12,
+              "denominator": 296,
+              "percentage": 4.05
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "size_unavailable",
+          "blocker_category": "structural",
+          "overall": {
+            "count": 11,
+            "denominator": 384,
+            "percentage": 2.86
+          },
+          "by_source": {
+            "play_store": {
+              "count": 6,
+              "denominator": 296,
+              "percentage": 2.03
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 5,
+              "denominator": 39,
+              "percentage": 12.82
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "budget_constraint",
+          "blocker_category": "psychological",
+          "overall": {
+            "count": 10,
+            "denominator": 384,
+            "percentage": 2.6
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 2,
+              "denominator": 45,
+              "percentage": 4.44
+            },
+            "survey": {
+              "count": 7,
+              "denominator": 39,
+              "percentage": 17.95
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        },
+        {
+          "blocker_type": "decision_paralysis",
+          "blocker_category": "psychological",
+          "overall": {
+            "count": 7,
+            "denominator": 384,
+            "percentage": 1.82
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 7,
+              "denominator": 39,
+              "percentage": 17.95
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "quality_doubt",
+          "blocker_category": "both",
+          "overall": {
+            "count": 6,
+            "denominator": 384,
+            "percentage": 1.56
+          },
+          "by_source": {
+            "play_store": {
+              "count": 6,
+              "denominator": 296,
+              "percentage": 2.03
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "fit_doubt",
+          "blocker_category": "psychological",
+          "overall": {
+            "count": 5,
+            "denominator": 384,
+            "percentage": 1.3
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 4,
+              "denominator": 39,
+              "percentage": 10.26
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "size_unavailable",
+          "blocker_category": "both",
+          "overall": {
+            "count": 3,
+            "denominator": 384,
+            "percentage": 0.78
+          },
+          "by_source": {
+            "play_store": {
+              "count": 3,
+              "denominator": 296,
+              "percentage": 1.01
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "out_of_stock",
+          "blocker_category": "both",
+          "overall": {
+            "count": 3,
+            "denominator": 384,
+            "percentage": 0.78
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "fit_doubt",
+          "blocker_category": "both",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "price_wait",
+          "blocker_category": "both",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "serviceability",
+          "blocker_category": "both",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "no_reviews",
+          "blocker_category": "psychological",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        },
+        {
+          "blocker_type": "forgot_wishlist",
+          "blocker_category": "psychological",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        }
+      ]
+    },
+    "blocker_type__x__external_action": {
+      "dimensions": [
+        "blocker_type",
+        "external_action"
+      ],
+      "total_pairs_evaluated": 384,
+      "pairs": [
+        {
+          "blocker_type": "serviceability",
+          "external_action": "none",
+          "overall": {
+            "count": 128,
+            "denominator": 384,
+            "percentage": 33.33
+          },
+          "by_source": {
+            "play_store": {
+              "count": 122,
+              "denominator": 296,
+              "percentage": 41.22
+            },
+            "reddit": {
+              "count": 6,
+              "denominator": 45,
+              "percentage": 13.33
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "none",
+          "external_action": "none",
+          "overall": {
+            "count": 106,
+            "denominator": 384,
+            "percentage": 27.6
+          },
+          "by_source": {
+            "play_store": {
+              "count": 72,
+              "denominator": 296,
+              "percentage": 24.32
+            },
+            "reddit": {
+              "count": 33,
+              "denominator": 45,
+              "percentage": 73.33
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "out_of_stock",
+          "external_action": "none",
+          "overall": {
+            "count": 45,
+            "denominator": 384,
+            "percentage": 11.72
+          },
+          "by_source": {
+            "play_store": {
+              "count": 45,
+              "denominator": 296,
+              "percentage": 15.2
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "quality_doubt",
+          "external_action": "none",
+          "overall": {
+            "count": 22,
+            "denominator": 384,
+            "percentage": 5.73
+          },
+          "by_source": {
+            "play_store": {
+              "count": 13,
+              "denominator": 296,
+              "percentage": 4.39
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 8,
+              "denominator": 39,
+              "percentage": 20.51
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        },
+        {
+          "blocker_type": "price_wait",
+          "external_action": "none",
+          "overall": {
+            "count": 19,
+            "denominator": 384,
+            "percentage": 4.95
+          },
+          "by_source": {
+            "play_store": {
+              "count": 10,
+              "denominator": 296,
+              "percentage": 3.38
+            },
+            "reddit": {
+              "count": 2,
+              "denominator": 45,
+              "percentage": 4.44
+            },
+            "survey": {
+              "count": 7,
+              "denominator": 39,
+              "percentage": 17.95
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "size_unavailable",
+          "external_action": "none",
+          "overall": {
+            "count": 14,
+            "denominator": 384,
+            "percentage": 3.65
+          },
+          "by_source": {
+            "play_store": {
+              "count": 9,
+              "denominator": 296,
+              "percentage": 3.04
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 5,
+              "denominator": 39,
+              "percentage": 12.82
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "cod_unavailable",
+          "external_action": "none",
+          "overall": {
+            "count": 11,
+            "denominator": 384,
+            "percentage": 2.86
+          },
+          "by_source": {
+            "play_store": {
+              "count": 11,
+              "denominator": 296,
+              "percentage": 3.72
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "budget_constraint",
+          "external_action": "none",
+          "overall": {
+            "count": 9,
+            "denominator": 384,
+            "percentage": 2.34
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 2,
+              "denominator": 45,
+              "percentage": 4.44
+            },
+            "survey": {
+              "count": 6,
+              "denominator": 39,
+              "percentage": 15.38
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        },
+        {
+          "blocker_type": "fit_doubt",
+          "external_action": "none",
+          "overall": {
+            "count": 7,
+            "denominator": 384,
+            "percentage": 1.82
+          },
+          "by_source": {
+            "play_store": {
+              "count": 3,
+              "denominator": 296,
+              "percentage": 1.01
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 4,
+              "denominator": 39,
+              "percentage": 10.26
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "decision_paralysis",
+          "external_action": "none",
+          "overall": {
+            "count": 4,
+            "denominator": 384,
+            "percentage": 1.04
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 4,
+              "denominator": 39,
+              "percentage": 10.26
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "serviceability",
+          "external_action": "checked_other_platform",
+          "overall": {
+            "count": 3,
+            "denominator": 384,
+            "percentage": 0.78
+          },
+          "by_source": {
+            "play_store": {
+              "count": 3,
+              "denominator": 296,
+              "percentage": 1.01
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "decision_paralysis",
+          "external_action": "bought_elsewhere",
+          "overall": {
+            "count": 3,
+            "denominator": 384,
+            "percentage": 0.78
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 3,
+              "denominator": 39,
+              "percentage": 7.69
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "out_of_stock",
+          "external_action": "bought_elsewhere",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "price_wait",
+          "external_action": "checked_other_platform",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "out_of_stock",
+          "external_action": "checked_other_platform",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "none",
+          "external_action": "checked_other_platform",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "serviceability",
+          "external_action": "bought_elsewhere",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "cod_unavailable",
+          "external_action": "checked_other_platform",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "budget_constraint",
+          "external_action": "bought_elsewhere",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "no_reviews",
+          "external_action": "none",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        },
+        {
+          "blocker_type": "forgot_wishlist",
+          "external_action": "none",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        }
+      ]
+    },
+    "blocker_type__x__journey_stage": {
+      "dimensions": [
+        "blocker_type",
+        "journey_stage"
+      ],
+      "total_pairs_evaluated": 384,
+      "pairs": [
+        {
+          "blocker_type": "serviceability",
+          "journey_stage": "abandoned",
+          "overall": {
+            "count": 60,
+            "denominator": 384,
+            "percentage": 15.62
+          },
+          "by_source": {
+            "play_store": {
+              "count": 59,
+              "denominator": 296,
+              "percentage": 19.93
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "none",
+          "journey_stage": "unclear",
+          "overall": {
+            "count": 56,
+            "denominator": 384,
+            "percentage": 14.58
+          },
+          "by_source": {
+            "play_store": {
+              "count": 30,
+              "denominator": 296,
+              "percentage": 10.14
+            },
+            "reddit": {
+              "count": 26,
+              "denominator": 45,
+              "percentage": 57.78
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "serviceability",
+          "journey_stage": "returned_blocked",
+          "overall": {
+            "count": 49,
+            "denominator": 384,
+            "percentage": 12.76
+          },
+          "by_source": {
+            "play_store": {
+              "count": 48,
+              "denominator": 296,
+              "percentage": 16.22
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "out_of_stock",
+          "journey_stage": "returned_blocked",
+          "overall": {
+            "count": 29,
+            "denominator": 384,
+            "percentage": 7.55
+          },
+          "by_source": {
+            "play_store": {
+              "count": 29,
+              "denominator": 296,
+              "percentage": 9.8
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "none",
+          "journey_stage": "pre_save",
+          "overall": {
+            "count": 23,
+            "denominator": 384,
+            "percentage": 5.99
+          },
+          "by_source": {
+            "play_store": {
+              "count": 16,
+              "denominator": 296,
+              "percentage": 5.41
+            },
+            "reddit": {
+              "count": 7,
+              "denominator": 45,
+              "percentage": 15.56
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "price_wait",
+          "journey_stage": "saved_waiting",
+          "overall": {
+            "count": 16,
+            "denominator": 384,
+            "percentage": 4.17
+          },
+          "by_source": {
+            "play_store": {
+              "count": 9,
+              "denominator": 296,
+              "percentage": 3.04
+            },
+            "reddit": {
+              "count": 2,
+              "denominator": 45,
+              "percentage": 4.44
+            },
+            "survey": {
+              "count": 5,
+              "denominator": 39,
+              "percentage": 12.82
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "serviceability",
+          "journey_stage": "saved_waiting",
+          "overall": {
+            "count": 14,
+            "denominator": 384,
+            "percentage": 3.65
+          },
+          "by_source": {
+            "play_store": {
+              "count": 10,
+              "denominator": 296,
+              "percentage": 3.38
+            },
+            "reddit": {
+              "count": 4,
+              "denominator": 45,
+              "percentage": 8.89
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "none",
+          "journey_stage": "returned_blocked",
+          "overall": {
+            "count": 13,
+            "denominator": 384,
+            "percentage": 3.39
+          },
+          "by_source": {
+            "play_store": {
+              "count": 13,
+              "denominator": 296,
+              "percentage": 4.39
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "out_of_stock",
+          "journey_stage": "abandoned",
+          "overall": {
+            "count": 12,
+            "denominator": 384,
+            "percentage": 3.12
+          },
+          "by_source": {
+            "play_store": {
+              "count": 11,
+              "denominator": 296,
+              "percentage": 3.72
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "budget_constraint",
+          "journey_stage": "saved_waiting",
+          "overall": {
+            "count": 9,
+            "denominator": 384,
+            "percentage": 2.34
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 2,
+              "denominator": 45,
+              "percentage": 4.44
+            },
+            "survey": {
+              "count": 6,
+              "denominator": 39,
+              "percentage": 15.38
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        },
+        {
+          "blocker_type": "none",
+          "journey_stage": "purchased",
+          "overall": {
+            "count": 8,
+            "denominator": 384,
+            "percentage": 2.08
+          },
+          "by_source": {
+            "play_store": {
+              "count": 8,
+              "denominator": 296,
+              "percentage": 2.7
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "quality_doubt",
+          "journey_stage": "returned_blocked",
+          "overall": {
+            "count": 8,
+            "denominator": 384,
+            "percentage": 2.08
+          },
+          "by_source": {
+            "play_store": {
+              "count": 8,
+              "denominator": 296,
+              "percentage": 2.7
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "quality_doubt",
+          "journey_stage": "abandoned",
+          "overall": {
+            "count": 7,
+            "denominator": 384,
+            "percentage": 1.82
+          },
+          "by_source": {
+            "play_store": {
+              "count": 4,
+              "denominator": 296,
+              "percentage": 1.35
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 3,
+              "denominator": 39,
+              "percentage": 7.69
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "size_unavailable",
+          "journey_stage": "returned_blocked",
+          "overall": {
+            "count": 6,
+            "denominator": 384,
+            "percentage": 1.56
+          },
+          "by_source": {
+            "play_store": {
+              "count": 6,
+              "denominator": 296,
+              "percentage": 2.03
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "cod_unavailable",
+          "journey_stage": "abandoned",
+          "overall": {
+            "count": 6,
+            "denominator": 384,
+            "percentage": 1.56
+          },
+          "by_source": {
+            "play_store": {
+              "count": 6,
+              "denominator": 296,
+              "percentage": 2.03
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "out_of_stock",
+          "journey_stage": "saved_waiting",
+          "overall": {
+            "count": 6,
+            "denominator": 384,
+            "percentage": 1.56
+          },
+          "by_source": {
+            "play_store": {
+              "count": 6,
+              "denominator": 296,
+              "percentage": 2.03
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "serviceability",
+          "journey_stage": "pre_save",
+          "overall": {
+            "count": 6,
+            "denominator": 384,
+            "percentage": 1.56
+          },
+          "by_source": {
+            "play_store": {
+              "count": 6,
+              "denominator": 296,
+              "percentage": 2.03
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "quality_doubt",
+          "journey_stage": "saved_waiting",
+          "overall": {
+            "count": 6,
+            "denominator": 384,
+            "percentage": 1.56
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 5,
+              "denominator": 39,
+              "percentage": 12.82
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "size_unavailable",
+          "journey_stage": "saved_waiting",
+          "overall": {
+            "count": 5,
+            "denominator": 384,
+            "percentage": 1.3
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 5,
+              "denominator": 39,
+              "percentage": 12.82
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "none",
+          "journey_stage": "abandoned",
+          "overall": {
+            "count": 4,
+            "denominator": 384,
+            "percentage": 1.04
+          },
+          "by_source": {
+            "play_store": {
+              "count": 3,
+              "denominator": 296,
+              "percentage": 1.01
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "none",
+          "journey_stage": "saved_waiting",
+          "overall": {
+            "count": 4,
+            "denominator": 384,
+            "percentage": 1.04
+          },
+          "by_source": {
+            "play_store": {
+              "count": 3,
+              "denominator": 296,
+              "percentage": 1.01
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "cod_unavailable",
+          "journey_stage": "returned_blocked",
+          "overall": {
+            "count": 4,
+            "denominator": 384,
+            "percentage": 1.04
+          },
+          "by_source": {
+            "play_store": {
+              "count": 4,
+              "denominator": 296,
+              "percentage": 1.35
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "decision_paralysis",
+          "journey_stage": "abandoned",
+          "overall": {
+            "count": 4,
+            "denominator": 384,
+            "percentage": 1.04
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 4,
+              "denominator": 39,
+              "percentage": 10.26
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "fit_doubt",
+          "journey_stage": "saved_waiting",
+          "overall": {
+            "count": 4,
+            "denominator": 384,
+            "percentage": 1.04
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 4,
+              "denominator": 39,
+              "percentage": 10.26
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "price_wait",
+          "journey_stage": "abandoned",
+          "overall": {
+            "count": 3,
+            "denominator": 384,
+            "percentage": 0.78
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 2,
+              "denominator": 39,
+              "percentage": 5.13
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "decision_paralysis",
+          "journey_stage": "saved_waiting",
+          "overall": {
+            "count": 3,
+            "denominator": 384,
+            "percentage": 0.78
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 3,
+              "denominator": 39,
+              "percentage": 7.69
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "size_unavailable",
+          "journey_stage": "abandoned",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "out_of_stock",
+          "journey_stage": "unclear",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "serviceability",
+          "journey_stage": "unclear",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "fit_doubt",
+          "journey_stage": "returned_blocked",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "price_wait",
+          "journey_stage": "returned_blocked",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "cod_unavailable",
+          "journey_stage": "unclear",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "fit_doubt",
+          "journey_stage": "unclear",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "size_unavailable",
+          "journey_stage": "unclear",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "cod_unavailable",
+          "journey_stage": "saved_waiting",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "serviceability",
+          "journey_stage": "purchased",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "budget_constraint",
+          "journey_stage": "abandoned",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "blocker_type": "no_reviews",
+          "journey_stage": "saved_waiting",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        },
+        {
+          "blocker_type": "quality_doubt",
+          "journey_stage": "pre_save",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        },
+        {
+          "blocker_type": "forgot_wishlist",
+          "journey_stage": "saved_waiting",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        }
+      ]
+    },
+    "wishlist_motive__x__blocker_type": {
+      "dimensions": [
+        "wishlist_motive",
+        "blocker_type"
+      ],
+      "total_pairs_evaluated": 384,
+      "pairs": [
+        {
+          "wishlist_motive": "unclear",
+          "blocker_type": "serviceability",
+          "overall": {
+            "count": 130,
+            "denominator": 384,
+            "percentage": 33.85
+          },
+          "by_source": {
+            "play_store": {
+              "count": 125,
+              "denominator": 296,
+              "percentage": 42.23
+            },
+            "reddit": {
+              "count": 5,
+              "denominator": 45,
+              "percentage": 11.11
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "unclear",
+          "blocker_type": "none",
+          "overall": {
+            "count": 100,
+            "denominator": 384,
+            "percentage": 26.04
+          },
+          "by_source": {
+            "play_store": {
+              "count": 67,
+              "denominator": 296,
+              "percentage": 22.64
+            },
+            "reddit": {
+              "count": 32,
+              "denominator": 45,
+              "percentage": 71.11
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "unclear",
+          "blocker_type": "out_of_stock",
+          "overall": {
+            "count": 48,
+            "denominator": 384,
+            "percentage": 12.5
+          },
+          "by_source": {
+            "play_store": {
+              "count": 48,
+              "denominator": 296,
+              "percentage": 16.22
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "unclear",
+          "blocker_type": "quality_doubt",
+          "overall": {
+            "count": 14,
+            "denominator": 384,
+            "percentage": 3.65
+          },
+          "by_source": {
+            "play_store": {
+              "count": 13,
+              "denominator": 296,
+              "percentage": 4.39
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "unclear",
+          "blocker_type": "cod_unavailable",
+          "overall": {
+            "count": 12,
+            "denominator": 384,
+            "percentage": 3.12
+          },
+          "by_source": {
+            "play_store": {
+              "count": 12,
+              "denominator": 296,
+              "percentage": 4.05
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "price_watch",
+          "blocker_type": "price_wait",
+          "overall": {
+            "count": 11,
+            "denominator": 384,
+            "percentage": 2.86
+          },
+          "by_source": {
+            "play_store": {
+              "count": 9,
+              "denominator": 296,
+              "percentage": 3.04
+            },
+            "reddit": {
+              "count": 2,
+              "denominator": 45,
+              "percentage": 4.44
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "unclear",
+          "blocker_type": "size_unavailable",
+          "overall": {
+            "count": 9,
+            "denominator": 384,
+            "percentage": 2.34
+          },
+          "by_source": {
+            "play_store": {
+              "count": 8,
+              "denominator": 296,
+              "percentage": 2.7
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "price_watch",
+          "blocker_type": "none",
+          "overall": {
+            "count": 5,
+            "denominator": 384,
+            "percentage": 1.3
+          },
+          "by_source": {
+            "play_store": {
+              "count": 3,
+              "denominator": 296,
+              "percentage": 1.01
+            },
+            "reddit": {
+              "count": 2,
+              "denominator": 45,
+              "percentage": 4.44
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "unclear",
+          "blocker_type": "price_wait",
+          "overall": {
+            "count": 4,
+            "denominator": 384,
+            "percentage": 1.04
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 2,
+              "denominator": 39,
+              "percentage": 5.13
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "aspirational",
+          "blocker_type": "budget_constraint",
+          "overall": {
+            "count": 4,
+            "denominator": 384,
+            "percentage": 1.04
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 3,
+              "denominator": 39,
+              "percentage": 7.69
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "unclear",
+          "blocker_type": "budget_constraint",
+          "overall": {
+            "count": 4,
+            "denominator": 384,
+            "percentage": 1.04
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 3,
+              "denominator": 39,
+              "percentage": 7.69
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "aspirational",
+          "blocker_type": "quality_doubt",
+          "overall": {
+            "count": 4,
+            "denominator": 384,
+            "percentage": 1.04
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 4,
+              "denominator": 39,
+              "percentage": 10.26
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "comparison_shortlist",
+          "blocker_type": "price_wait",
+          "overall": {
+            "count": 3,
+            "denominator": 384,
+            "percentage": 0.78
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 2,
+              "denominator": 39,
+              "percentage": 5.13
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "comparison_shortlist",
+          "blocker_type": "decision_paralysis",
+          "overall": {
+            "count": 3,
+            "denominator": 384,
+            "percentage": 0.78
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 3,
+              "denominator": 39,
+              "percentage": 7.69
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "comparison_shortlist",
+          "blocker_type": "quality_doubt",
+          "overall": {
+            "count": 3,
+            "denominator": 384,
+            "percentage": 0.78
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 3,
+              "denominator": 39,
+              "percentage": 7.69
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "aspirational",
+          "blocker_type": "none",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 2,
+              "denominator": 296,
+              "percentage": 0.68
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "price_watch",
+          "blocker_type": "serviceability",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "fit_uncertainty",
+          "blocker_type": "fit_doubt",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "unclear",
+          "blocker_type": "fit_doubt",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "budget_timing",
+          "blocker_type": "price_wait",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 2,
+              "denominator": 39,
+              "percentage": 5.13
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "aspirational",
+          "blocker_type": "size_unavailable",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 2,
+              "denominator": 39,
+              "percentage": 5.13
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "aspirational",
+          "blocker_type": "decision_paralysis",
+          "overall": {
+            "count": 2,
+            "denominator": 384,
+            "percentage": 0.52
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 2,
+              "denominator": 39,
+              "percentage": 5.13
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "occasion",
+          "blocker_type": "none",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "gifting",
+          "blocker_type": "fit_doubt",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "fit_uncertainty",
+          "blocker_type": "size_unavailable",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 1,
+              "denominator": 296,
+              "percentage": 0.34
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "price_watch",
+          "blocker_type": "out_of_stock",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 1,
+              "denominator": 45,
+              "percentage": 2.22
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "budget_timing",
+          "blocker_type": "decision_paralysis",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "occasion",
+          "blocker_type": "budget_constraint",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "aspirational",
+          "blocker_type": "price_wait",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "budget_timing",
+          "blocker_type": "quality_doubt",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "budget_timing",
+          "blocker_type": "size_unavailable",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "budget_timing",
+          "blocker_type": "fit_doubt",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "comparison_shortlist",
+          "blocker_type": "size_unavailable",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "unclear",
+          "blocker_type": "decision_paralysis",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "aspirational",
+          "blocker_type": "fit_doubt",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 1,
+              "denominator": 39,
+              "percentage": 2.56
+            },
+            "interview": {
+              "count": 0,
+              "denominator": 4,
+              "percentage": 0.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "budget_timing",
+          "blocker_type": "budget_constraint",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "unclear",
+          "blocker_type": "no_reviews",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        },
+        {
+          "wishlist_motive": "unclear",
+          "blocker_type": "forgot_wishlist",
+          "overall": {
+            "count": 1,
+            "denominator": 384,
+            "percentage": 0.26
+          },
+          "by_source": {
+            "play_store": {
+              "count": 0,
+              "denominator": 296,
+              "percentage": 0.0
+            },
+            "reddit": {
+              "count": 0,
+              "denominator": 45,
+              "percentage": 0.0
+            },
+            "survey": {
+              "count": 0,
+              "denominator": 39,
+              "percentage": 0.0
+            },
+            "interview": {
+              "count": 1,
+              "denominator": 4,
+              "percentage": 25.0
+            }
+          }
+        }
+      ]
+    }
+  }
+}
