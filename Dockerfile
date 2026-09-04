@@ -20,11 +20,13 @@ COPY data/ ./data/
 COPY dashboard/ ./dashboard/
 COPY src/ ./src/
 COPY Docs/ ./Docs/
+COPY entrypoint.sh .
 COPY server.py .
 COPY README.md .
+RUN chmod +x entrypoint.sh
 
 # Expose default port
 EXPOSE 8000
 
 # Start production server
-CMD ["python", "server.py"]
+ENTRYPOINT ["python", "server.py"]
