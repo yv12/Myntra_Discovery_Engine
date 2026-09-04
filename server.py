@@ -162,6 +162,10 @@ if dashboard_dir.exists():
 
 if __name__ == "__main__":
     import uvicorn
-    port = int(os.environ.get("PORT", 8000))
+    raw_port = os.environ.get("PORT", "8000")
+    try:
+        port = int(str(raw_port).strip())
+    except (ValueError, TypeError):
+        port = 8000
     print(f"Starting Myntra Discovery Engine on port {port}...")
     uvicorn.run("server:app", host="0.0.0.0", port=port, reload=False)

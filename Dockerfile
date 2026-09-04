@@ -26,5 +26,5 @@ COPY README.md .
 # Expose default port
 EXPOSE 8000
 
-# Start production server binding to Railway dynamic $PORT
-CMD ["sh", "-c", "uvicorn server:app --host 0.0.0.0 --port ${PORT:-8000}"]
+# Start production server
+CMD ["python", "server.py"]
